@@ -1,0 +1,211 @@
+{
+  "name": "analytics",
+  "parent": "master-categories",
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "name": "search document",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon CloudSearch"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "big data platform",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon EMR"
+          ]
+        },
+        {
+          "type": "cloud",
+          "provider": "apache",
+          "products": [
+            "Apache Adoop",
+            "Apache Spark"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "data lake",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS lake Formation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "data stream",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Kinesis Data Stream"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "video streams",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Kinesis Video Stream"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "extract, transform and load",
+      "acronym": "ETL",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Data Firehose",
+            "AWS Glue"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "data analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Kinesis Data Analytics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "log analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon OpenSearch Service"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "online analytical processing",
+      "acronym": "OLAP",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Redshift"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "reporting",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Quicksight"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "data preparation",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Glue DataBrew"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "financial analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon FinSpace"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "data management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon DataZone"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "data sharing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Clean Rooms"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "database query",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Athena"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "data matching",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Entity Resolution"
+          ]
+        }
+      ]
+    }
+  ]
+}

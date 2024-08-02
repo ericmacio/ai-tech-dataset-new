@@ -1,0 +1,172 @@
+{
+  "name": "artificial-intelligence",
+  "parent": "master-categories",
+  "acronym": "AI",
+  "level": 1,
+  "childNames": [
+    "2_ai_machine-learning",
+    "2_ai_natural-language-processing",
+    "2_ai_natural-language-understanding",
+    "2_ai_ai-generative"
+  ],
+  "items": [
+    {
+      "name": "time-series forecasting",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Forecast"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "conversational interface development",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Lex"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "vision service api",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Rekognition"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "translation",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Translate"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "intelligence search",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Kendra"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "software code analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon CodeGuru"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "business and operational data monitoring",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Lookout",
+            "AMazon devOps Guru"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "health data analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS HealthLake, Amazon Comprehend Medical"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "computer vision",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Panorama"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "code generator",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon CodeWhisperer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "genomic and biological data analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon HealthOmics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "medical images analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS HealthImaging"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "foundation models",
+      "acronym": "FM",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Bedrock"
+          ]
+        }
+      ]
+    }
+  ]
+}

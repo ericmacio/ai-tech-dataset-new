@@ -1,0 +1,51 @@
+{
+    "name": "ai_machine-learning",
+    "parent": "artificial-intelligence",
+    "level": 2,
+    "childNames": [],
+    "list": [
+        {
+            "name": "hardware engine",
+            "instancesold": {
+                "aws": ["Amazon Elastic Inferentia"]
+            }
+        },
+        {
+            "name": "individualized recommendations",
+            "instancesold": {
+                "aws": ["Amazon Personalize"]
+            }
+        },
+        {
+            "name": "dataset labeling",
+            "instancesold": {
+                "aws": ["Amazon SageMaker Ground Truth"]
+            }
+        },
+        {
+            "name": "optical character recognition (OCR)",
+            "instancesold": {
+                "aws": ["Amazon Textract"]
+            }
+        },
+        {
+            "name": "deep learning",
+            "instancesold": {
+                "aws": ["AWS Deep Learning", "AWS Deep Learning Containers", "AWS Deeep Lens", "AWS DeepRacer", "AWS DeepComposer"],
+                "opensource": ["Apache MXNet", "TensorFlow", "PyTorch"]
+            }
+        },
+        {
+            "name": "fraud detection",
+            "instancesold": {
+                "aws": ["Amazon Fraud Detector"]
+            }
+        },
+        {
+            "name": "sdk",
+            "instancesold": {
+                "aws": ["AWS Neuron"]
+            }
+        }
+    ]
+}

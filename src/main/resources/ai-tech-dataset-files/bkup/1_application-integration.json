@@ -1,0 +1,50 @@
+{
+    "name": "application-integration",
+    "parent": "master-categories",
+    "level": 1,
+    "childNames": [],
+    "list": [
+        {
+            "name": "notification service",
+            "instancesold": {
+                "aws": ["Amazon Simple Notification Service (SNS)"]
+            }
+        },
+        {
+            "name": "message queue",
+            "instancesold": {
+                "aws": ["Amazon Simple Queue Service", "Amazon MQ"]
+            }
+        },
+        {
+            "name": "data synchronization",
+            "instancesold": {
+                "aws": ["AWS AppSync"]
+            }
+        },
+        {
+            "name": "workflows orchestration",
+            "instancesold": {
+                "aws": ["AWS Step Functions", "AWS Express Workflows"]
+            }
+        },
+        {
+            "name": "events bus",
+            "instancesold": {
+                "aws": ["AWS EventBridge"]
+            }
+        },
+        {
+            "name": "data flow management",
+            "instancesold": {
+                "aws": ["Amazon AppFlow"]
+            }
+        },
+        {
+            "name": "B2B data interchange",
+            "instancesold": {
+                "aws": ["AWS B2B data interchange (B2Bi"]
+            }
+        }
+    ]
+}

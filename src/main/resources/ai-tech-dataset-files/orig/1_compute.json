@@ -1,0 +1,69 @@
+{
+  "name": "compute",
+  "parent": "master-categories",
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "name": "compute instance for web application",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic Compute Cloud (EC2)",
+            "Amazon Lightsail"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "web application deployment",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elastic Beanstalk"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "serverless function as a service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Lambda"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "customer premises",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Outposts"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "serverless application repository",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Serverless Application Repository"
+          ]
+        }
+      ]
+    }
+  ]
+}

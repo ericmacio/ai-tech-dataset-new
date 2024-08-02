@@ -1,0 +1,32 @@
+{
+  "name": "blockchain",
+  "parent": "master-categories",
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "name": "managed blockchain",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Blockchain"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ledger database",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Quantum Ledger Database"
+          ]
+        }
+      ]
+    }
+  ]
+}

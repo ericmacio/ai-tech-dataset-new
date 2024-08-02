@@ -1,0 +1,105 @@
+{
+  "name": "ai_machine-learning",
+  "parent": "artificial-intelligence",
+  "level": 2,
+  "childNames": [],
+  "items": [
+    {
+      "name": "hardware engine",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic Inferentia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "individualized recommendations",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Personalize"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dataset labeling",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon SageMaker Ground Truth"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "optical character recognition (OCR)",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Textract"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "deep learning",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Deep Learning",
+            "AWS Deep Learning Containers",
+            "AWS Deeep Lens",
+            "AWS DeepRacer",
+            "AWS DeepComposer"
+          ]
+        },
+        {
+          "type": "cloud",
+          "provider": "opensource",
+          "products": [
+            "Apache MXNet",
+            "TensorFlow",
+            "PyTorch"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fraud detection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Fraud Detector"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sdk",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Neuron"
+          ]
+        }
+      ]
+    }
+  ]
+}

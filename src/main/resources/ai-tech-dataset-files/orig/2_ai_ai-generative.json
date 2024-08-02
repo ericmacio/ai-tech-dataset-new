@@ -1,0 +1,27 @@
+{
+  "name": "ai_ai-generative",
+  "parent": "artificial-intelligence",
+  "level": 2,
+  "childNames": ["3_ai-test"],
+  "items": [
+    {
+      "name": "content generation assistant",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Q"
+          ]
+        },
+        {
+          "type": "cloud",
+          "provider": "microsoft",
+          "products": [
+            "Microsoft Copilot"
+          ]
+        }
+      ]
+    }
+  ]
+}

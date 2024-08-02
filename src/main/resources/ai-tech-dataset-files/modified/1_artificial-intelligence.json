@@ -1,0 +1,438 @@
+{
+  "name": "artificial-intelligence",
+  "fileName": "1_artificial-intelligence.json",
+  "parent": "master-categories",
+  "acronym": "AI",
+  "level": 1,
+  "childNames": [
+    "2_ai_machine-learning",
+    "2_ai_natural-language-processing",
+    "2_ai_natural-language-understanding",
+    "2_ai_ai-generative"
+  ],
+  "childList": [
+    {
+      "name": "ai_machine-learning",
+      "fileName": "2_ai_machine-learning.json",
+      "parent": "artificial-intelligence",
+      "level": 2,
+      "childNames": [],
+      "childList": [],
+      "list": [
+        {
+          "name": "hardware engine",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "Amazon Elastic Inferentia"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "individualized recommendations",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "Amazon Personalize"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "dataset labeling",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "Amazon SageMaker Ground Truth"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "optical character recognition (OCR)",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "Amazon Textract"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "deep learning",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "AWS Deep Learning",
+                "AWS Deep Learning Containers",
+                "AWS Deeep Lens",
+                "AWS DeepRacer",
+                "AWS DeepComposer"
+              ]
+            },
+            {
+              "type": "cloud",
+              "provider": "opensource",
+              "list": [
+                "Apache MXNet",
+                "TensorFlow",
+                "PyTorch"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fraud detection",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "Amazon Fraud Detector"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "sdk",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "AWS Neuron"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ai_natural-language-processing",
+      "fileName": "2_ai_natural-language-processing.json",
+      "parent": "artificial-intelligence",
+      "acronym": "NLP",
+      "level": 2,
+      "childNames": [],
+      "childList": [],
+      "list": [
+        {
+          "name": "document data extract and analysis",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "Amazon Comprehend"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "health data extract and analysis",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "Amazon Comprehend Medical"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "text to speech",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "text to speech"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ai_natural-language-understanding",
+      "fileName": "2_ai_natural-language-understanding.json",
+      "parent": "artificial-intelligence",
+      "acronym": "NLU",
+      "level": 2,
+      "childNames": [],
+      "childList": [],
+      "list": [
+        {
+          "name": "automatic speech recognition",
+          "acronym": "ASR",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "Amazon Transcribe"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "transcribe health patient-clinician conversation",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "AWS HealthScribe"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ai_ai-generative",
+      "fileName": "2_ai_ai-generative.json",
+      "parent": "artificial-intelligence",
+      "level": 2,
+      "childNames": [
+        "3_ai_ai-generative"
+      ],
+      "childList": [
+        {
+          "name": "ai_ai-generative-3",
+          "fileName": "3_ai_ai-generative.json",
+          "parent": "artificial-intelligence",
+          "level": 3,
+          "childNames": [],
+          "childList": [],
+          "list": [
+            {
+              "name": "content generation assistant 3",
+              "instances": [
+                {
+                  "type": "cloud",
+                  "provider": "aws",
+                  "list": [
+                    "Amazon Q"
+                  ]
+                },
+                {
+                  "type": "cloud",
+                  "provider": "microsoft",
+                  "list": [
+                    "Microsoft Copilot"
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "test 3",
+              "instances": [
+                {
+                  "type": "cloud",
+                  "provider": "aws",
+                  "list": [
+                    "Amazon Q 3"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "list": [
+        {
+          "name": "content generation assistant",
+          "instances": [
+            {
+              "type": "cloud",
+              "provider": "aws",
+              "list": [
+                "Amazon Q"
+              ]
+            },
+            {
+              "type": "cloud",
+              "provider": "microsoft",
+              "list": [
+                "Microsoft Copilot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list": [
+    {
+      "name": "time-series forecasting",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon Forecast"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "conversational interface development",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon Lex"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "vision service api",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon Rekognition"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "translation",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon Translate"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "intelligence search",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon Kendra"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "software code analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon CodeGuru"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "business and operational data monitoring",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon Lookout",
+            "AMazon devOps Guru"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "health data analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "AWS HealthLake, Amazon Comprehend Medical"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "computer vision",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "AWS Panorama"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "code generator",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon CodeWhisperer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "genomic and biological data analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon HealthOmics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "medical images analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "AWS HealthImaging"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "foundation models",
+      "acronym": "FM",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "list": [
+            "Amazon Bedrock"
+          ]
+        }
+      ]
+    }
+  ]
+}

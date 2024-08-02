@@ -1,0 +1,10 @@
+{"name": "compute instance for web application", "aws": ["Amazon Elastic Compute Cloud (EC2)", "Amazon Lightsail"]}
+{"name": "image build check", "aws":  ["Amazon EC2 Image Builder"]}
+{"name": "container hosting", "aws":  ["BottleRocket"]}
+{"name": "high performance cluster", "acronym": "HPC", "aws":  ["AWS Parallel Cluster"]}
+{"name": "remote display", "aws":  ["NICE DCV"]}
+{"name": "isolated execution environment", "aws":  ["AWS Nitro Enclaves"]}
+{"name": "automatic integration and delivery pipeline", "aws":  ["AWS App Runner"]}
+{"name": "job control", "aws":  ["Nice EngineFrame"]}
+{"name": "batch jobs", "aws":  ["AWS Batch"]}
+{"name": "real-time large-scale spatial simulations", "aws":  ["AWS SimSpace Weaver"]}

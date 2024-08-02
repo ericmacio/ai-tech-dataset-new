@@ -1,0 +1,109 @@
+{
+    "name": "analytics",
+    "parent": "master-categories",
+    "level": 1,
+    "childNames": [],
+    "list": [
+        {
+            "name": "search document",
+            "instancesold": {
+                "aws": ["Amazon CloudSearch"],
+                "microsoft": ["bidon"],
+                "apache": ["bdidonaussi"]
+            }
+        },
+        {
+            "name": "big data platform",
+            "instancesold": {
+                "aws": ["Amazon EMR"],
+                "apache": ["Apache Adoop", "Apache Spark"]
+            }
+        },
+        {
+            "name": "data lake",
+            "instancesold": {
+                "aws": ["AWS lake Formation"]
+            }
+        },
+        {
+            "name": "data stream",
+            "instancesold": {
+                "aws": ["Amazon Kinesis Data Stream"]
+            }
+        },
+        {
+            "name": "video streams",
+            "instancesold": {
+                "aws": ["Amazon Kinesis Video Stream"]
+            }
+        },
+        {
+            "name": "extract, transform and load",
+            "acronym": "ETL",
+            "instancesold": {
+                "aws": ["Amazon Data Firehose", "AWS Glue"]
+            }
+        },
+        {
+            "name": "data analytics",
+            "instancesold": {
+                "aws": ["Amazon Kinesis Data Analytics"]
+            }
+        },
+        {
+            "name": "log analytics",
+            "instancesold": {
+                "aws": ["Amazon OpenSearch Service"]
+            }
+        },
+        {
+            "name": "online analytical processing",
+            "acronym": "OLAP",
+            "instancesold": {
+                "aws": ["Amazon Redshift"]
+            }
+        },
+        {
+            "name": "reporting",
+            "instancesold": {
+                "aws": ["Amazon Quicksight"]
+            }
+        },
+        {
+            "name": "data preparation",
+            "instancesold": {
+                "aws": ["AWS Glue DataBrew"]
+            }
+        },
+        {
+            "name": "financial analytics",
+            "instancesold": {
+                "aws": ["Amazon FinSpace"]
+            }
+        },
+        {
+            "name": "data management",
+            "instancesold": {
+                "aws": ["Amazon DataZone"]
+            }
+        },
+        {
+            "name": "data sharing",
+            "instancesold": {
+                "aws": ["AWS Clean Rooms"]
+            }
+        },
+        {
+            "name": "database query",
+            "instancesold": {
+                "aws": ["Amazon Athena"]
+            }
+        },
+        {
+            "name": "data matching",
+            "instancesold": {
+                "aws": ["AWS Entity Resolution"]
+            }
+        }
+    ]
+}

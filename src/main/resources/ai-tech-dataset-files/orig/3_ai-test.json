@@ -1,0 +1,20 @@
+{
+  "name": "ai_test",
+  "parent": "artificial-intelligence",
+  "level": 3,
+  "childNames": [],
+  "items": [
+    {
+      "name": "hardware engine 3",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic Inferentia"
+          ]
+        }
+      ]
+    }
+  ]
+}

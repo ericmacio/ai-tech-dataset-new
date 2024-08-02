@@ -1,0 +1,45 @@
+{
+  "name": "ai_natural-language-processing",
+  "parent": "artificial-intelligence",
+  "acronym": "NLP",
+  "level": 2,
+  "childNames": [],
+  "items": [
+    {
+      "name": "document data extract and analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Comprehend"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "health data extract and analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Comprehend Medical"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "text to speech",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "text to speech"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"name":"blockchain","fileName":"1_blockchain.json","parent":"master-categories","level":1,"childNames":[],"childList":[],"list":[{"name":"managed blockchain","instances":[{"type":"cloud","provider":"aws","list":["Amazon Blockchain"]}]},{"name":"ledger database","instances":[{"type":"cloud","provider":"aws","list":["Amazon Quantum Ledger Database"]}]}]}
