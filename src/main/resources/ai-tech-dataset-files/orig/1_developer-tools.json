@@ -1,0 +1,190 @@
+{
+  "name": "developer-tools",
+  "parents": ["master-categories"],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "name": "integrated development environment",
+      "acronym": "IDE",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Cloud9"
+          ]
+        },
+        {
+          "type": "editor",
+          "provider": "microsoft",
+          "products": [
+            "Visual Studio"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "build",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS CodeBuild"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "source control",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS CodeCommit"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "application deployment",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS CodeDeploy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ci/cd pipeline",
+      "acronym": "CI/CD",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS CodePipeline",
+            "AWS CodeCatalyst"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "command line interface",
+      "acronym": "CLI",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Command Line Interface"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "application analysis, trace and debug",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS X-Ray"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "infrastructure as code",
+      "acronym": "IaC",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Cloud Development Kit (AWS CDK)",
+            "AWS CloudFormation"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "artifact repository",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS CodeArtifact"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "browser shell",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS CloudShell"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "open java development kit distribution",
+      "acronym": "OpenJDK",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Coretto"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cloud control api",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Cloud Control API"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "visual application design and build",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Application Composer"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "resilience testing tool",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Fault Injection Service"
+          ]
+        }
+      ]
+    }
+  ]
+}

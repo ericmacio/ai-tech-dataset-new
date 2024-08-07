@@ -3,6 +3,8 @@ package com.eric.ai.domain;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
+import java.util.Objects;
+import java.util.stream.Stream;
 
 public class Item {
 
@@ -44,8 +46,25 @@ public class Item {
         this.instances = instances;
     }
 
-    public void setParents(List<String> parentsName) {
+    public void addParents(List<String> parentsName) {
         parents.addAll(parentsName);
+    }
+
+    public List<String> getParents() {
+        return parents;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Item item = (Item) o;
+        return Objects.equals(name, item.name);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hashCode(name);
     }
 
     @Override
@@ -64,6 +83,23 @@ public class Item {
         System.out.println("[" + parentsStr + "] " + this.name);
     }
 
+    public Stream<String> getDataStream(String separator, String categoryAcronym) {
+        StringBuilder dataStr = new StringBuilder();
+        dataStr.append(this.parents.get(1)).append(separator);
+        if(categoryAcronym != null)
+            dataStr.append(categoryAcronym);
+        for(int i = 2; i < this.parents.size(); i++) {
+            dataStr.append(separator).append(this.parents.get(i));
+        }
+        if(this.parents.size() < 3)
+            dataStr.append(separator);
+        dataStr.append(separator).append(this.name).append(separator);
+        if(this.acronym != null)
+            dataStr.append(this.acronym);
+        return this.instances.stream()
+                .flatMap(instance -> instance.getDataStream(separator, dataStr.toString()));
+    }
+
     public Boolean instancesContainsWordIgnoreCase(String keyWord) {
         return this.instances.stream()
                 .map(Instance::getProducts)
@@ -71,10 +107,15 @@ public class Item {
                 .anyMatch(s -> s.toLowerCase().contains(keyWord.toLowerCase()));
     }
 
-    public boolean containsInstancesForProvider(String provider) {
+    public Boolean containsInstancesForProvider(String provider) {
         return this.instances.stream()
                 .map(Instance::getProvider)
                 .anyMatch(s -> s.toLowerCase().contains(provider.toLowerCase()));
+    }
+
+    public Boolean parentsContainsWordIgnoreCase(String keyWord) {
+        return this.parents.stream()
+                .anyMatch(s -> s.toLowerCase().contains(keyWord.toLowerCase()));
     }
 
 }

@@ -1,17 +1,17 @@
 {
-  "name": "ai_test",
-  "parent": "artificial-intelligence",
-  "level": 3,
+  "name": "end-user-computing",
+  "parents": ["master-categories"],
+  "level": 1,
   "childNames": [],
   "items": [
     {
-      "name": "hardware engine 3",
+      "name": "end user computing",
       "instances": [
         {
           "type": "cloud",
           "provider": "aws",
           "products": [
-            "Amazon Elastic Inferentia"
+            "Amazon AppStream"
           ]
         }
       ]

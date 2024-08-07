@@ -7,6 +7,6 @@ public class DtoDomainMapper {
 
     public static Category dtoToCategoryBuilder (CategoryDto dto) {
 
-        return new Category(dto.name(), dto.parent(), dto.acronym(), dto.level(), dto.childNames(), dto.items());
+        return new Category(dto.name(), dto.parents(), dto.acronym(), dto.level(), dto.childNames(), dto.items());
     }
 }

@@ -1,5 +1,8 @@
-package com.eric.ai.dto;
+package com.eric.ai.repository;
 
+import com.eric.ai.dto.CategoryDto;
+import com.eric.ai.dto.ItemDto;
+import com.eric.ai.dto.MastersRecordDto;
 import com.eric.ai.exceptions.FileNotFoundException;
 import com.eric.ai.exceptions.JsonFileException;
 import com.fasterxml.jackson.annotation.JsonInclude;
@@ -12,7 +15,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 
-public class JsonFileDtoMapper {
+public class JsonFileRepository {
 
     public static MastersRecordDto getMastersRecordDto(String mastersRecordFileName) {
         try {
@@ -38,7 +41,7 @@ public class JsonFileDtoMapper {
             CategoryDto categoryDtoOrig = getCategoryDtoFromFile(origFileName);
             categoryDto.items().addAll(categoryDtoOrig.items());
             // create new dto with metadata values from origin
-            CategoryDto newCategoryDto = new CategoryDto(categoryDtoOrig.name(), categoryDtoOrig.parent(),
+            CategoryDto newCategoryDto = new CategoryDto(categoryDtoOrig.name(), categoryDtoOrig.parents(),
                     categoryDtoOrig.acronym(), categoryDtoOrig.level(), categoryDtoOrig.childNames(), categoryDto.items());
             try {
                 objectMapper.writeValue(new File(outputFileName), newCategoryDto);
@@ -77,7 +80,7 @@ public class JsonFileDtoMapper {
         List<ItemDto> itemDtoList;
         try {
             itemDtoList = Files.lines(path)
-                    .map(JsonFileDtoMapper::createItemDtoFromLine)
+                    .map(JsonFileRepository::createItemDtoFromLine)
                     .toList();
         } catch (IOException e) {
             throw new JsonFileException("Cannot read line from file: " + fileName + ". Exception: " + e.getMessage());

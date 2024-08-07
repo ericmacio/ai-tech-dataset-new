@@ -1,0 +1,13 @@
+{"name": "video transcoder", "aws": ["Amazon Elastic Transcoder", "AWS Elemental Video Convert", "AWS Elemental MediaConvert"]}
+{"name": "video transport", "aws": ["AWS Elemental MediaConnect"]}
+{"name": "broadcast live video processing", "aws": ["AWS Elemental MediaLive", "AWS Elemental Conductor", "AWS Elemental Delta", "AWS Elemental Live", "AWS Elemental Server"]}
+{"name": "package, distribute video", "aws": ["AWS Elemental MediaPackage"]}
+{"name": "video storage", "aws": ["AWS Elemental MediaStore"]}
+{"name": "video ad insertion", "aws": ["AWS Elemental MediaTailor"]}
+{"name": "video processing and delivery", "aws": ["AWS Elemental Appliances & Software"]}
+{"name": "video live streaming low latency", "aws": ["AWS Interactive Video service"]}
+{"name": "video source connection", "aws": ["AWS Elemental Link"]}
+{"name": "process and render particles", "aws": ["AWS Thinkbox Krakatoa", "AWS Thinkbox Frost"]}
+{"name": "compute management software for render farms", "aws": ["AWS Thinkbox Deadline", "AWS Deadline Cloud"]}
+{"name": "compressed animated geometry files", "aws": ["AWS Thinkbox XMesh"]}
+{"name": "particle simulator", "aws": ["AWS Thinkbox Stoke"]}

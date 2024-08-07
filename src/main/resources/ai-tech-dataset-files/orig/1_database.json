@@ -1,0 +1,122 @@
+{
+  "name": "database",
+  "parents": ["master-categories"],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "name": "serverless relational database",
+      "acronym": "SQL ",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Aurora"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "serverless key-value database",
+      "acronym": "NoSQL",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon DynamoDB"
+          ]
+        },
+        {
+          "type": "cloud",
+          "provider": "opensource",
+          "products": [
+            "MongoDB"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "managed database service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Keyspaces (for Apache Cassandra)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "database migration service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Database Migration Service (AWS DMS)"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "graph analytics and serverless database",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Neptune"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "serverless time series database service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Timestream"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "relational database",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Relational Database Service (Amazon RDS)"
+          ]
+        },
+        {
+          "type": "cloud",
+          "provider": "opensource",
+          "products": [
+            "MySQL",
+            "MariaDB"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "redis compatible in memory database",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon MemoryDB for Redis",
+            "Amazon ElastiCache"
+          ]
+        }
+      ]
+    }
+  ]
+}

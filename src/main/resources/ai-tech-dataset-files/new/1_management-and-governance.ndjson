@@ -1,0 +1,24 @@
+{"name": "monitoring, logs and alerts", "aws": ["Amazon CloudWatch"]}
+{"name": "auto scaling", "aws": ["AWS Auto scaling", "AWS Application Auto Scaling"]}
+{"name": "asset audit and evaluate resources", "aws": ["AWS Config"]}
+{"name": "software license manager", "aws": ["AWS License Manager"]}
+{"name": "cloud resources events and changes management", "aws": ["AWS Health Dashboard"]}
+{"name": "governance, compliance and audit of account", "aws": ["AWS CloudTrail"]}
+{"name": "share, organize, and govern IaC templates", "aws": ["AWS Service Catalog"]}
+{"name": "control of infrastructure resources", "aws": ["AWS Systems Manager"]}
+{"name": "infrastructure inspection for finance, availability and performance recommendations", "aws": ["AWS Trusted Advisor"]}
+{"name": "cloud architecture audit", "aws": ["AWS Well-Architected Tool"]}
+{"name": "setup of cloud multi account environment (landing zone)", "aws": ["AWS Control Tower"]}
+{"name": "organization and account management", "aws": ["AWS Organizations"]}
+{"name": "centralized management of configuration data", "aws": ["AWS AppConfig"]}
+{"name": "chatbot", "aws": ["AWS chatbot"]}
+{"name": "backup and restore", "aws": ["AWS Blackint Agent"]}
+{"name": "data visualization", "aws": ["AWS Managed Grafana"]}
+{"name": "monitoring", "opensource": ["prometheus"]}
+{"name": "telemetry data", "opensource": ["OpenTelemetry"]}
+{"name": "deployment workflow tool", "aws": ["AWS Proton"]}
+{"name": "configuring and deploying third party application", "aws": ["AWS Launch Wizard"]}
+{"name": "it service management", "acronym": "ITSM", "aws": ["AWS Service Management Connector (SMC)"]}
+{"name": "telecom network build", "aws": ["AWS Telco Network Builder"]}
+{"name": "workload rightsizing", "aws": ["AWS Compute Optimizer"]}
+{"name": "console", "aws": ["AWS console Application", "AWS Console Mobile Application"]}

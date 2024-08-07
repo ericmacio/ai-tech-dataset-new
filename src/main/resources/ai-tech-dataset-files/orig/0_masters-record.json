@@ -8,25 +8,13 @@
         "1_blockchain",
         "1_business-application",
         "1_cloud-financial-management",
-        "1_compute"
-    ],
-    "full": [
-        "1_analytics",
-        "1_application-integration",
-        "1_artificial-intelligence",
-        "1_blockchain",
-        "1_business-application",
-        "1_cloud-financial-management",
         "1_compute",
-        "1_contact-center",
         "1_containers",
-        "1_customer-enablement",
         "1_database",
         "1_developer-tools",
         "1_end-user-computing",
-        "1_front end web and mobile",
+        "1_front-end-web-and-mobile",
         "1_games",
-        "1_identity-management",
         "1_internet-of-things",
         "1_management-and-governance",
         "1_media-services",
@@ -36,7 +24,6 @@
         "1_robotics",
         "1_satellite",
         "1_security-and-compliance",
-        "1_serverless",
         "1_storage"
     ]
 }

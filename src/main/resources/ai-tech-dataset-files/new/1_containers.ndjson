@@ -1,0 +1,3 @@
+{"name": "orchestrator", "aws": ["Amazon Elastic Kubernetes Service (EKS)", "Amazon Elastic Container Service (ECS)"]}
+{"name": "registry", "aws": ["Amazon Elastic Container Registry (ECR)"]}
+{"name": "serverless compute engine", "aws": ["AWS Fargate", "Red Hat OpenShift Service on AWS (ROSA)"], "redhat":  ["Openshift"]}

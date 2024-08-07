@@ -1,0 +1,14 @@
+{"name": "integrated development environment", "acronym": "IDE", "aws": ["AWS Cloud9"], "microsoft":  ["Visual Studio"]}
+{"name": "build", "aws": ["AWS CodeBuild"]}
+{"name": "source control", "aws": ["AWS CodeCommit"]}
+{"name": "application deployment", "aws": ["AWS CodeDeploy"]}
+{"name": "ci/cd pipeline", "acronym": "CI/CD", "aws": ["AWS CodePipeline", "AWS CodeCatalyst"]}
+{"name": "command line interface", "acronym": "CLI", "aws": ["AWS Command Line Interface"]}
+{"name": "application analysis, trace and debug", "aws": ["AWS X-Ray"]}
+{"name": "infrastructure as code", "acronym": "IaC", "aws": ["AWS Cloud Development Kit (AWS CDK)", "AWS CloudFormation"]}
+{"name": "artifact repository", "aws": ["AWS CodeArtifact"]}
+{"name": "browser shell", "aws": ["AWS CloudShell"]}
+{"name": "open java development kit distribution", "acronym": "OpenJDK", "aws": ["Amazon Coretto"]}
+{"name": "cloud control api", "aws": ["AWS Cloud Control API"]}
+{"name": "visual application design and build", "aws": ["AWS Application Composer"]}
+{"name": "resilience testing tool", "aws": ["AWS Fault Injection Service"]}

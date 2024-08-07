@@ -1,8 +1,8 @@
 {
   "name": "ai_ai-generative",
-  "parent": "artificial-intelligence",
+  "parents": ["master-categories","artificial-intelligence"],
   "level": 2,
-  "childNames": ["3_ai-test"],
+  "childNames": [],
   "items": [
     {
       "name": "content generation assistant",
@@ -16,7 +16,7 @@
         },
         {
           "type": "cloud",
-          "provider": "microsoft",
+          "provider": "azure",
           "products": [
             "Microsoft Copilot"
           ]

@@ -1,27 +1,26 @@
 package com.eric.ai.domain;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
+import java.util.stream.Stream;
 
 public class Category {
 
     private String name;
-    private String parent;
+    private final List<String> parents;
     private String acronym;
     private Integer level;
     private List<String> childNames = new ArrayList<>();
     private final List<Item> items = new ArrayList<>();
     private List<Category> childList = new ArrayList<>();
-    private final List<String> parents = new ArrayList<>();
 
-    public Category(String name, String parent, String acronym, Integer level, List<String> childNames, List<Item> items) {
+    public Category(String name, List<String> parents, String acronym, Integer level, List<String> childNames, List<Item> items) {
         this.name = name;
+        this.parents = parents;
         this.acronym = acronym;
         this.level = level;
         this.childNames.addAll(childNames);
         this.items.addAll(items);
-        this.parent = parent;
     }
 
     public String getName() {
@@ -32,10 +31,6 @@ public class Category {
         this.name = name;
     }
 
-    public String getParent() {
-        return parent;
-    }
-
     public String getAcronym() {
         return acronym;
     }
@@ -44,9 +39,6 @@ public class Category {
         this.acronym = acronym;
     }
 
-    public void setParent(String parent) {
-        this.parent = parent;
-    }
 
     public Integer getLevel() {
         return level;
@@ -92,10 +84,10 @@ public class Category {
         }
     }
 
-    public List<Item> getItemsRecursive() {
+    public List<Item> recursiveItems() {
         List<Item> allItems = this.getItems();
         for(Category childCategory : this.getChildList()) {
-            List<Item> childItems = childCategory.getItemsRecursive();
+            List<Item> childItems = childCategory.recursiveItems();
             allItems.addAll(childItems);
         }
         return allItems;
@@ -105,10 +97,6 @@ public class Category {
         this.getChildList().add(childCategory);
     }
 
-    public void setParents(List<String> parents) {
-        this.parents.addAll(parents);
-    }
-
     @Override
     public String toString() {
         return "Category{" +
@@ -116,5 +104,21 @@ public class Category {
                 ", childNames=" + childNames +
                 ", items=" + items +
                 '}';
+    }
+
+    public boolean containsWord(String keyWord) {
+        return this.getName().toLowerCase().contains(keyWord.toLowerCase()) ||
+                (this.getAcronym() != null && this.getAcronym().toLowerCase().contains(keyWord.toLowerCase())) ||
+                this.parentsContainsWordIgnoreCase(keyWord);
+    }
+
+    public Stream<String> getDataStream(String separator) {
+        return this.recursiveItems().stream()
+                .flatMap(item -> item.getDataStream(separator, this.acronym));
+    }
+
+    private Boolean parentsContainsWordIgnoreCase(String keyWord) {
+        return this.parents.stream()
+                .anyMatch(s -> s.toLowerCase().contains(keyWord.toLowerCase()));
     }
 }

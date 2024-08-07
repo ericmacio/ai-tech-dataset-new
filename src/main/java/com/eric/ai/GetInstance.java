@@ -1,13 +1,9 @@
 package com.eric.ai;
 
-import com.eric.ai.domain.Category;
 import com.eric.ai.domain.Instance;
-import com.eric.ai.dto.CategoryFileDto;
-import com.eric.ai.dto.JsonFileDtoMapper;
+import com.eric.ai.repository.JsonFileRepository;
 import com.eric.ai.dto.MastersRecordDto;
-import com.eric.ai.service.CategoryBuilder;
-
-import java.util.Collection;
+import com.eric.ai.service.ItemService;
 
 public class GetInstance {
 
@@ -17,15 +13,11 @@ public class GetInstance {
 
     public static void main(String[] args) {
 
-        final String PROVIDER = "microsoft";
+        final String PROVIDER = "opensource";
 
-        MastersRecordDto mastersRecordDto = JsonFileDtoMapper.getMastersRecordDto(MASTERS_RECORD_FILENAME);
+        MastersRecordDto mastersRecordDto = JsonFileRepository.getMastersRecordDto(MASTERS_RECORD_FILENAME);
 
-        mastersRecordDto.masters().stream()
-                .map(m -> new CategoryFileDto(m, FILE_FOLDER + m + ".json", CHILD_FOLDER))
-                .map(categoryFileDto -> CategoryBuilder.recursiveCategoryBuilder(categoryFileDto,null))
-                .map(Category::getItemsRecursive)
-                .flatMap(Collection::stream)
+        ItemService.getItemStream(mastersRecordDto, FILE_FOLDER, CHILD_FOLDER)
                 .filter(item -> item.containsInstancesForProvider(PROVIDER))
                 .forEach(item -> {
                     item.display();

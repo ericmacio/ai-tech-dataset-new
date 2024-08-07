@@ -1,4 +1,3 @@
-{"name": "compute instance for web application", "aws": ["Amazon Elastic Compute Cloud (EC2)", "Amazon Lightsail"]}
 {"name": "image build check", "aws":  ["Amazon EC2 Image Builder"]}
 {"name": "container hosting", "aws":  ["BottleRocket"]}
 {"name": "high performance cluster", "acronym": "HPC", "aws":  ["AWS Parallel Cluster"]}

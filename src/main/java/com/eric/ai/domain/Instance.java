@@ -2,6 +2,7 @@ package com.eric.ai.domain;
 
 import java.util.Collection;
 import java.util.List;
+import java.util.stream.Stream;
 
 public class Instance {
 
@@ -54,5 +55,13 @@ public class Instance {
                 ", provider='" + provider + '\'' +
                 ", products=" + products +
                 '}';
+    }
+
+    public Stream<String> getDataStream(String separator, String itemStr) {
+        String masterStr = itemStr + separator + this.provider
+
+                ;
+        return this.products.stream()
+                .map(p -> masterStr + separator + p);
     }
 }

@@ -1,7 +1,6 @@
 {
   "name": "ai_natural-language-understanding",
-  "parent": "artificial-intelligence",
-  "acronym": "NLU",
+  "parents": ["master-categories","artificial-intelligence"],
   "level": 2,
   "childNames": [],
   "items": [

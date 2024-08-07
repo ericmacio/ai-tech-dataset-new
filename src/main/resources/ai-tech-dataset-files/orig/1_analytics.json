@@ -1,6 +1,6 @@
 {
   "name": "analytics",
-  "parent": "master-categories",
+  "parents": ["master-categories"],
   "level": 1,
   "childNames": [],
   "items": [
@@ -27,7 +27,7 @@
           ]
         },
         {
-          "type": "cloud",
+          "type": "editor",
           "provider": "apache",
           "products": [
             "Apache Adoop",

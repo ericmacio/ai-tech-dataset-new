@@ -5,4 +5,9 @@ import java.util.List;
 public record ItemDto(
         String name,
         String acronym,
-        List<String> aws) {}
+        List<String> aws,
+        List<String> redhat,
+        List<String> apache,
+        List<String> opensource,
+        List<String> azure,
+        List<String> microsoft) {}

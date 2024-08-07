@@ -1,6 +1,6 @@
 {
   "name": "blockchain",
-  "parent": "master-categories",
+  "parents": ["master-categories"],
   "level": 1,
   "childNames": [],
   "items": [

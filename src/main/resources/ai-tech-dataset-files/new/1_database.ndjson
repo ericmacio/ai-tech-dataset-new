@@ -1,0 +1,8 @@
+{"name": "serverless relational database", "acronym": "SQL ", "aws":["Amazon Aurora"]}
+{"name": "serverless key-value database", "acronym": "NoSQL", "aws": ["Amazon DynamoDB"], "opensource":  ["MongoDB"]}
+{"name": "managed database service", "aws": ["Amazon Keyspaces (for Apache Cassandra)"]}
+{"name": "database migration service", "aws": ["AWS Database Migration Service (AWS DMS)"]}
+{"name": "graph analytics and serverless database", "aws": ["Amazon Neptune"]}
+{"name": "serverless time series database service", "aws": ["Amazon Timestream"]}
+{"name": "relational database", "aws": ["Amazon Relational Database Service (Amazon RDS)"], "opensource": ["MySQL", "MariaDB"]}
+{"name": "redis compatible in memory database", "aws": ["Amazon MemoryDB for Redis", "Amazon ElastiCache"]}

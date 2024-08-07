@@ -1,7 +1,6 @@
 {
   "name": "ai_natural-language-processing",
-  "parent": "artificial-intelligence",
-  "acronym": "NLP",
+  "parents": ["master-categories","artificial-intelligence"],
   "level": 2,
   "childNames": [],
   "items": [
@@ -36,7 +35,7 @@
           "type": "cloud",
           "provider": "aws",
           "products": [
-            "text to speech"
+            "Amazon Polly"
           ]
         }
       ]

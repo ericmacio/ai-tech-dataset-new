@@ -1,6 +1,6 @@
 {
   "name": "artificial-intelligence",
-  "parent": "master-categories",
+  "parents": ["master-categories"],
   "acronym": "AI",
   "level": 1,
   "childNames": [

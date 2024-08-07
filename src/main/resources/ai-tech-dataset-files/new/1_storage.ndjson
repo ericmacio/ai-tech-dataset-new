@@ -1,0 +1,9 @@
+{"name": "attached network storage", "aws": ["Amazon Elastic Block Store (EBS)"]}
+{"name": "cloud storage connection", "aws": ["AWS Storage Gateway"]}
+{"name": "file system", "aws": ["Amazon Elastic File System (EFS)"]}
+{"name": "disaster recovery", "aws": ["AWS Elastic Disaster Recovery (DRS)"]}
+{"name": "file server", "aws": ["Amazon FSx"]}
+{"name": "edge computing", "aws": ["Amazon Snowball Edge","AWS Snowcone"]}
+{"name": "backup", "aws": ["AWS Backup"]}
+{"name": "simple storage", "aws": ["Amazon Simple Storage service (S3)"]}
+{"name": "cache storage", "aws": ["Amazon File Cache"]}
