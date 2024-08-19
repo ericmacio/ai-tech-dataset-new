@@ -1,0 +1,122 @@
+3d content
+access security
+api management
+application streaming
+audit
+backup service
+big data
+blockchain
+build
+business intelligence (BI) platform
+caching system
+cellular network
+centralized configuration
+cloud infrastructure management
+collaborative work
+compute engine
+console
+containers
+content delivery  network (CDN)
+content generation
+conversational interface
+cost management
+cryptography
+customer premises
+data analysis
+data analytics platform
+data analytics repository
+data governance
+data integration
+data lake
+data security
+data sharing
+data storage
+data synchro
+data transfer
+data visualization
+datacenter solution
+ddos protection
+deep learning
+deployment
+desktop
+device communication
+device management
+device security
+directory service
+disaster recovery
+discovery service
+domain name server (DNS)
+edge computing
+enterprise search
+events management
+file server
+file system
+firewall
+forecasting
+foundation models
+game engine
+graph analytics
+hardware security module (HSM)
+high performance cluster (HPC)
+identity and access management (IAM)
+industrial system
+integrated development environment
+interoperability
+jobs
+license manager
+live streaming
+load balancing
+log analytics platform
+machine learning
+management software
+map service
+media processing
+message queue
+metadata
+migration service
+moderation
+monitoring
+natural language processing (NLP)
+natural language understanding (NLU)
+network management
+nosql database
+notification service
+operating system
+orchestration
+packaging
+particle rendering
+quantum computing
+reality
+remote display
+repository
+rich media
+rightsizing
+satellite communication
+secret management
+security compliance
+security inspector
+security management
+sensors
+serverless compute engine
+serverless functions
+shell
+simulation
+smart assistant
+sql database
+stream analysis
+supply chain
+telecom network
+telemetry (OLTP)
+testing
+threat detection
+time series database
+traffic management
+translation
+user experience
+user identity platform
+vector database
+virtual private network (VPN)
+vision
+web and mobile application
+wide area network (WAN)
+wifi

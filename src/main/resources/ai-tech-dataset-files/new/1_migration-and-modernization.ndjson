@@ -1,4 +1,0 @@
-{"name": "collects usage, behavior, and configuration data", "aws": ["AWS Application Discovery Service"]}
-{"name": "secure file transfer", "aws": ["AWS Transfer Family"]}
-{"name": "data synchronization", "aws": ["AWS DataSync"]}
-{"name": "migration and modernization", "aws": ["AWS Migration Hub", "AWS Application Migration Service", "AWS Migration Evaluator", "AWS Mainframe Modernization"]}

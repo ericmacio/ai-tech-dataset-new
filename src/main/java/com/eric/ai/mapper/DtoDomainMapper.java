@@ -1,12 +1,11 @@
 package com.eric.ai.mapper;
 
-import com.eric.ai.domain.Category;
-import com.eric.ai.dto.CategoryDto;
+import com.eric.ai.dto.CsvItemDto;
+import com.eric.ai.dto.JsonItemDto;
 
 public class DtoDomainMapper {
 
-    public static Category dtoToCategoryBuilder (CategoryDto dto) {
-
-        return new Category(dto.name(), dto.parents(), dto.acronym(), dto.level(), dto.childNames(), dto.items());
+    public static JsonItemDto csvItemDtoToJsonItemDto(CsvItemDto dto) {
+        return new JsonItemDto(dto.description(), dto.provider(), dto.product());
     }
 }

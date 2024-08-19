@@ -1,0 +1,550 @@
+migration-and-modernization;undefined;collects usage, behavior, and configuration data;aws;AWS Application Discovery Service
+migration-and-modernization;undefined;secure file transfer;aws;AWS Transfer Family
+migration-and-modernization;undefined;data synchronization;aws;AWS DataSync
+migration-and-modernization;undefined;migration and modernization;aws;AWS Migration Hub
+migration-and-modernization;undefined;migration and modernization;aws;AWS Application Migration Service
+migration-and-modernization;undefined;migration and modernization;aws;AWS Migration Evaluator
+migration-and-modernization;undefined;migration and modernization;aws;AWS Mainframe Modernization
+migration-and-modernization;undefined;Simplify on-premises database migration to the cloud;azure;Azure Database Migration Service
+migration-and-modernization;undefined;Discover, assess, right-size, and migrate your on-premises virtual machines (VMs) to Azure;azure;Azure Migrate
+migration-and-modernization;undefined;Keep your business running with built-in disaster recovery service;azure;Azure Site Recovery
+migration-and-modernization;undefined;Manage your cloud spending with confidence;azure;Azure Cost Management and Billing
+migration-and-modernization;undefined;Appliances and solutions for data transfer to Azure and edge compute;azure;Data Box
+media-services;undefined;video transcoder;aws;Amazon Elastic Transcoder
+media-services;undefined;video transcoder;aws;AWS Elemental Video Convert
+media-services;undefined;video transcoder;aws;AWS Elemental MediaConvert
+media-services;undefined;video transport;aws;AWS Elemental MediaConnect
+media-services;undefined;broadcast live video processing;aws;AWS Elemental MediaLive
+media-services;undefined;broadcast live video processing;aws;AWS Elemental Conductor
+media-services;undefined;broadcast live video processing;aws;AWS Elemental Delta
+media-services;undefined;broadcast live video processing;aws;AWS Elemental Live
+media-services;undefined;broadcast live video processing;aws;AWS Elemental Server
+media-services;undefined;package, distribute video;aws;AWS Elemental MediaPackage
+media-services;undefined;video storage;aws;AWS Elemental MediaStore
+media-services;undefined;video ad insertion;aws;AWS Elemental MediaTailor
+media-services;undefined;video processing and delivery;aws;AWS Elemental Appliances & Software
+media-services;undefined;video live streaming low latency;aws;AWS Interactive Video service
+media-services;undefined;video source connection;aws;AWS Elemental Link
+media-services;undefined;process and render particles;aws;AWS Thinkbox Krakatoa
+media-services;undefined;process and render particles;aws;AWS Thinkbox Frost
+media-services;undefined;compute management software for render farms;aws;AWS Thinkbox Deadline
+media-services;undefined;compute management software for render farms;aws;AWS Deadline Cloud
+media-services;undefined;compressed animated geometry files;aws;AWS Thinkbox XMesh
+media-services;undefined;particle simulator;aws;AWS Thinkbox Stoke
+media-services;undefined;A single player for all your playback needs;azure;Azure Media Player
+media-services;undefined;Fast, reliable content delivery network with global reach;azure;Content Delivery Network
+media-services;undefined;Securely deliver content using AES, PlayReady, Widevine, and Fairplay;azure;Content Protection
+media-services;undefined;Studio grade encoding at cloud scale;azure;Encoding
+media-services;undefined;Deliver content to virtually all devices with ability to scale;azure;Live and On-Demand Streaming
+media-services;undefined;Encode, store, and stream video and audio at scale;azure;Media Services
+robotics;undefined;simulation workload;aws;AWS RoboMaker
+internet-of-things;undefined;real time operating system for microcontrollers;opensource;Free RTOS
+internet-of-things;undefined;iot data analysis;aws;AWS IoT analytics
+internet-of-things;undefined;wifi button device;aws;AWS IoT Button
+internet-of-things;undefined;iot device connect and message transfer ;aws;AWS IoT Core
+internet-of-things;undefined;iot device fleet security;aws;AWS IoT Device Defender
+internet-of-things;undefined;iot device management;aws;AWS IoT Device Management
+internet-of-things;undefined;iot device fleet monitoring and actions;aws;AWS IoT Events
+internet-of-things;undefined;device software build and management;aws;AWS IoT GreenGrass
+internet-of-things;undefined;collect store monitor data from industrial equipment;aws;AWS IoT SiteWise
+internet-of-things;undefined;connectivity module;aws;AWS IoT ExpressLink
+internet-of-things;undefined;build digital twins;aws;AWS IoT TwinMaker
+internet-of-things;undefined;robot interoperability data collect and standardization;aws;AWS IoT Robborunner
+internet-of-things;undefined;vehicle data collect transform and transfer;aws;AWS IoT FleetWise
+internet-of-things;undefined;Publish APIs to developers, partners, and employees securely and at scale;azure;API Management
+internet-of-things;undefined;Build or modernize scalable, high-performance apps;azure;Azure Cosmos DB
+internet-of-things;undefined;Use IoT spatial intelligence to create models of physical environments;azure;Azure Digital Twins
+internet-of-things;undefined;Build IoT solutions on a hosted platform;azure;Azure IoT Central
+internet-of-things;undefined;Extend cloud intelligence and analytics to edge devices;azure;Azure IoT Edge
+internet-of-things;undefined;Connect, monitor, and manage billions of IoT assets;azure;Azure IoT Hub
+internet-of-things;undefined;An enterprise-grade service for the end-to-end machine learning lifecycle;azure;Azure Machine Learning
+internet-of-things;undefined;Create location-aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure;azure;Azure Maps
+internet-of-things;undefined;Making embedded IoT development and connectivity easy;azure;Azure RTOS
+internet-of-things;undefined;Securely connect MCU-powered devices from the silicon to the cloud;azure;Azure Sphere
+internet-of-things;undefined;Consume Services privately on Azure Platform;azure;Azure SQL Edge
+internet-of-things;undefined;Real-time analytics on fast-moving streaming data;azure;Azure Stream Analytics
+internet-of-things;undefined;Visualize IoT data in real time;azure;Azure Time Series Insights
+internet-of-things;undefined;Reliable event delivery at massive scale;azure;Event Grid
+internet-of-things;undefined;Build for mixed reality using AI sensors;azure;Kinect DK
+internet-of-things;undefined;Automate the access and use of data across clouds;azure;Logic Apps
+internet-of-things;undefined;Send push notifications to any platform from any back end;azure;Notification Hubs
+internet-of-things;undefined;Long-term OS support and services to manage device updates and assess device health;azure;Windows 10 IoT Core Services
+internet-of-things;undefined;Continuous asset discovery, vulnerability management, and threat detection for your Internet-of-things (IoT) and operational technology (OT) devices;azure;Microsoft Defender for IoT
+internet-of-things;undefined;Accelerate edge intelligence from silicon to service;azure;Azure Percept PREVIEW
+internet-of-things;undefined;Build intelligent edge solutions with world-class developer tools, long-term support, and enterprise-grade security.;azure;Windows for IoT
+internet-of-things;undefined;Execute event-driven serverless code with an end-to-end development experience;azure;Azure Functions
+application-integration;undefined;notification service;aws;Amazon Simple Notification Service (SNS)
+application-integration;undefined;message queue;aws;Amazon Simple Queue Service
+application-integration;undefined;message queue;aws;Amazon MQ
+application-integration;undefined;data synchronization;aws;AWS AppSync
+application-integration;undefined;workflows orchestration;aws;AWS Step Functions
+application-integration;undefined;workflows orchestration;aws;AWS Express Workflows
+application-integration;undefined;events bus;aws;AWS EventBridge
+application-integration;undefined;data flow management;aws;Amazon AppFlow
+application-integration;undefined;B2B data interchange;aws;AWS B2B data interchange (B2Bi
+security-and-compliance;undefined;hierarchical datastore;aws;Amazon Cloud directory
+security-and-compliance;undefined;identity platform for web and mobile application;aws;Amazon Cognito
+security-and-compliance;undefined;data, account and workload protection;aws;Amazon GuardDuty
+security-and-compliance;undefined;vulnerability scan management;aws;Amazon Inspector
+security-and-compliance;undefined;sensitive data reporting;aws;Amazon Macie
+security-and-compliance;undefined;compliance information access;aws;AWS Artifact
+security-and-compliance;undefined;public and private certificates management;aws;AWS Certificate Manager (ACMà
+security-and-compliance;undefined;cryptographic service for hardware security modules (HSMs);aws;AWS CloudHSM
+security-and-compliance;undefined;active directory;aws;AWS Directory Service
+security-and-compliance;undefined;active directory;azure;Active Directory
+security-and-compliance;undefined;active directory;microsoft;Active Directory
+security-and-compliance;undefined;resource protection management;aws;AWS Firewall Manager
+security-and-compliance;undefined;identity and access management;aws;AWS Identity and Access Management (IAM)
+security-and-compliance;undefined;cryptographic keys management;aws;AWS Key management Service (AWS KMS
+security-and-compliance;undefined;secret management;aws;AWS Secret Manager
+security-and-compliance;undefined;cloud security posture management;aws;AWS Security Hub
+security-and-compliance;undefined;ddos protection;aws;AWS Shield
+security-and-compliance;undefined;firewall;aws;AWS WAF
+security-and-compliance;undefined;security data analysis;aws;Amazon Detective
+security-and-compliance;undefined;resources sharing;aws;AWS Resource Access Manager
+security-and-compliance;undefined;risk and compliance audit;aws;AWS Audit Manager
+security-and-compliance;undefined;firewall rules;aws;AWS Network Firewall
+security-and-compliance;undefined;code signing;aws;AWS Signer
+security-and-compliance;undefined;private certificate authority;aws;AWS Private Certificate Authority
+security-and-compliance;undefined;authorization service;aws;Amazon Verified Permissions
+security-and-compliance;undefined;security data centralization;aws;Amazon Security Lake
+security-and-compliance;undefined;payment processing;aws;AWS Payment Cryptography
+security-and-compliance;undefined;Fast, scalable parameter storage for app configuration;azure;App Configuration
+security-and-compliance;undefined;Build secure, scalable, highly available web front ends in Azure;azure;Application Gateway
+security-and-compliance;undefined;Synchronize on-premises directories and enable single sign-on;azure;Azure Active Directory (Azure AD)
+security-and-compliance;undefined;Manage your domain controllers in the cloud;azure;Azure Active Directory Domain Services
+security-and-compliance;undefined;Protect your multi-cloud and hybrid environments;azure;Microsoft Defender for Cloud
+security-and-compliance;undefined;Protect your applications from Distributed Denial of Service (DDoS) attacks;azure;Azure DDoS Protection
+security-and-compliance;undefined;Manage hardware security modules that you use in the cloud;azure;Azure Dedicated HSM
+security-and-compliance;undefined;Fast, reliable, and more secure cloud content delivery service with intelligent threat protection;azure;Azure Front Door
+security-and-compliance;undefined;Better protect your sensitive information anytime, anywhere;azure;Azure Information Protection
+security-and-compliance;undefined;Cloud-native SIEM and intelligent security analytics;azure;Microsoft Sentinel
+security-and-compliance;undefined;Safeguard and maintain control of keys and other secrets;azure;Key Vault
+security-and-compliance;undefined;Extend threat protection to any infrastructure;azure;Microsoft Defender for Cloud
+security-and-compliance;undefined;Establish secure, cross-premises connectivity;azure;VPN Gateway
+security-and-compliance;undefined;A cloud-native web application firewall (WAF) service that provides powerful protection for web apps;azure;Web Application Firewall
+security-and-compliance;undefined;Continuous asset discovery, vulnerability management, and threat detection for your Internet-of-things (IoT) and operational technology (OT) devices;azure;Microsoft Defender for IoT
+security-and-compliance;undefined;A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it;azure;Microsoft Azure Attestation
+security-and-compliance;undefined;Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence;azure;Azure confidential ledger PREVIEW
+storage;undefined;attached network storage;aws;Amazon Elastic Block Store (EBS)
+storage;undefined;cloud storage connection;aws;AWS Storage Gateway
+storage;undefined;file system;aws;Amazon Elastic File System (EFS)
+storage;undefined;disaster recovery;aws;AWS Elastic Disaster Recovery (DRS)
+storage;undefined;file server;aws;Amazon FSx
+storage;undefined;edge computing;aws;Amazon Snowball Edge
+storage;undefined;edge computing;aws;AWS Snowcone
+storage;undefined;backup;aws;AWS Backup
+storage;undefined;simple storage;aws;Amazon Simple Storage service (S3)
+storage;undefined;cache storage;aws;Amazon File Cache
+storage;undefined;Industry leading price point for storing rarely accessed data;azure;Archive Storage
+storage;undefined;Run high-performance, file-based workloads in the cloud;azure;Avere vFXT for Azure
+storage;undefined;Simplify data protection with built-in backup management at scale;azure;Azure Backup
+storage;undefined;Scalable, secure data lake for high-performance analytics;azure;Azure Data Lake Storage
+storage;undefined;Hyperscale repository for big data analytics workloads;azure;Azure Data Lake Storage Gen1
+storage;undefined;A simple and safe service for sharing big data with external organizations;azure;Azure Data Share
+storage;undefined;Simple, secure and serverless enterprise-grade cloud file shares;azure;Azure Files
+storage;undefined;Hybrid storage optimization solution for HPC environments;azure;Azure FXT Edge Filer
+storage;undefined;File caching for high-performance computing (HPC);azure;Azure HPC Cache
+storage;undefined;Enterprise-grade Azure file shares, powered by NetApp;azure;Azure NetApp Files
+storage;undefined;Massively scalable and secure object storage;azure;Azure Blob Storage
+storage;undefined;Appliances and solutions for data transfer to Azure and edge compute;azure;Data Box
+storage;undefined;High-performance, highly durable block storage;azure;Azure Disk Storage
+storage;undefined;Effectively scale apps according to traffic;azure;Queue Storage
+storage;undefined;Durable, highly available, and massively scalable cloud storage;azure;Storage Accounts
+storage;undefined;View and interact with Azure storage resources;azure;Storage Explorer
+storage;undefined;Lower costs with an enterprise hybrid cloud storage solution;azure;StorSimple
+storage;undefined;Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence;azure;Azure confidential ledger
+analytics;enterprise search;search document;aws;Amazon CloudSearch
+analytics;big data;big data platform;aws;Amazon EMR
+analytics;big data;big data platform;apache;Apache Adoop
+analytics;big data;big data platform;apache;Apache Spark
+analytics;data analytics repository;data lake;aws;AWS lake Formation
+analytics;stream data;data stream;aws;Amazon Kinesis Data Stream
+analytics;stream data;video streams;aws;Amazon Kinesis Video Stream
+analytics;data integration and ETL;data transform and analysis;aws;Amazon Data Firehose
+analytics;data integration and ETL;data transform and analysis;aws;AWS Glue
+analytics;data analytics platform;data analytics;aws;Amazon Kinesis Data Analytics
+analytics;log analytics platform;log analytics;aws;Amazon OpenSearch Service
+analytics;data analytics repository;online analytical processing;aws;Amazon Redshift
+analytics;business intelligence (BI) platform;data analytics report;aws;Amazon Quicksight
+analytics;data preparation;data preparation for analytics and machine learning;aws;AWS Glue DataBrew
+analytics;financial analytics;financial analytics;aws;Amazon FinSpace
+analytics;data management and governance;data management;aws;Amazon DataZone
+analytics;data sharing;data sharing;aws;AWS Clean Rooms
+analytics;query engine;database query;aws;Amazon Athena
+analytics;customer and product data;data matching;aws;AWS Entity Resolution
+analytics;data analytics platform;Enterprise-grade analytics engine as a service;azure;Azure Analysis Services
+analytics;enterprise search;Fast and highly scalable data exploration service;azure;Azure Data Explorer
+analytics;data integration and ETL;Hybrid data integration at enterprise scale, made easy;azure;Azure Data Factory
+analytics;data analytics repository;Scalable, secure data lake for high-performance analytics;azure;Azure Data Lake Storage
+analytics;data analytics repository;Hyperscale repository for big data analytics workloads;azure;Azure Data Lake Storage Gen1
+analytics;data analytics sharing;A simple and safe service for sharing big data with external organizations;azure;Azure Data Share
+analytics;data analytics platform;Design AI with Apache Spark-based analytics;azure;Azure Databricks
+analytics;data analytics platform;Unified analytics platform;azure;Microsoft Fabric
+analytics;stream data;Real-time analytics on fast-moving streaming data;azure;Azure Stream Analytics
+analytics;data analytics platform;Limitless analytics with unmatched time to insight;azure;Azure Synapse Analytics
+analytics;metadata;Get more value from your enterprise data assets;azure;Data Catalog
+analytics;data analytics platform;Distributed analytics service that makes big data easy;azure;Data Lake Analytics
+analytics;data ingestion;Receive telemetry from millions of devices;azure;Event Hubs
+analytics;big data;Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters;azure;HDInsight
+analytics;business intelligence (BI) platform;White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications;azure;Power BI Embedded
+analytics;big data;Predictive analytics, machine learning, and statistical modeling for big data;azure;R Server for HDInsight
+analytics;data governance;A unified data governance solution that maximizes the business value of your data;azure;Azure Purview
+analytics;data connection;A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant;azure;Microsoft Graph Data Connect
+analytics;application resilience;Improve application resilience by introducing faults and simulating outages;azure;Azure Chaos Studio
+compute;build;image build check;aws;Amazon EC2 Image Builder
+compute;hosting;container hosting;aws;BottleRocket
+compute;high performance cluster (HPC);high performance cluster;aws;AWS Parallel Cluster
+compute;remote display;remote display;aws;NICE DCV
+compute;execution environment;isolated execution environment;aws;AWS Nitro Enclaves
+compute;deployment;automatic integration and delivery pipeline;aws;AWS App Runner
+compute;jobs;job control;aws;Nice EngineFrame
+compute;jobs;batch jobs;aws;AWS Batch
+compute;simulation;real-time large-scale spatial simulations;aws;AWS SimSpace Weaver
+compute;compute instance;compute instance for web application;aws;Amazon Elastic Compute Cloud (EC2)
+compute;compute instance;compute instance for web application;aws;Amazon Lightsail
+compute;deployment;web application deployment;aws;AWS Elastic Beanstalk
+compute;serverless functions;serverless function as a service;aws;AWS Lambda
+compute;on premises;customer premises;aws;AWS Outposts
+compute;repository;serverless application repository;aws;AWS Serverless Application Repository
+compute;web and mobile application;Quickly create powerful cloud apps for web and mobile;azure;App Service
+compute;high performance cluster (HPC);Create, manage, operate, and optimize HPC and big compute clusters of any scale;azure;Azure CycleCloud
+compute;quantum cluster;Accelerate your development lifecycle by building your quantum solution once and running it on multiple systems with little to no change;azure;Azure Quantum
+compute;compute instance;Provision unused compute capacity at deep discounts to run interruptible workloads;azure;Azure Spot Virtual Machines
+compute;deployment;Build and deploy Spring Boot apps with a fully managed service from Microsoft and VMware;azure;Azure Spring Cloud
+compute;compute instance;Run your VMware workloads natively on Azure;azure;Azure VMware Solution
+compute;jobs;Cloud-scale job scheduling and compute management;azure;Batch
+compute;auto-scaling;Create highly-available, infinitely-scalable cloud applications and APIs;azure;Cloud Services
+compute;compute instance;Provision virtual machines for Ubuntu, Red Hat, and more;azure;Linux Virtual Machines
+compute;sql database;Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO);azure;SQL Server on Azure Virtual Machines
+compute;web and mobile application;Streamlined full-stack development from source code to global high availability;azure;Static Web Apps
+compute;compute instance;Manage and scale up to thousands of Linux and Windows VMs;azure;Virtual Machine Scale Sets
+compute;compute instance;Provision Windows and Linux VMs in seconds;azure;Virtual Machines
+compute;remote display;Enable a secure, remote desktop experience from anywhere;azure;Azure Virtual Desktop
+compute;compute instance;A dedicated physical server to host your Azure VMs for Windows and Linux;azure;Azure Dedicated Host
+compute;build;Simplify your image building process with easy to use tool;azure;Azure VM Image Builder
+compute;deployment;Deploy and scale containers on managed Kubernetes;azure;Azure Kubernetes Service (AKS)
+compute;serverless functions;Execute event-driven serverless code with an end-to-end development experience;azure;Azure Functions
+compute;containers;Launch containers with hypervisor isolation;azure;Azure Container Instances
+compute;deployment;Deploy and operate always-on, scalable, distributed apps;azure;Azure Service Fabric
+virtual-desktop-infrastructure;;Enable a secure, remote desktop experience from anywhere;azure;Azure Virtual Desktop
+virtual-desktop-infrastructure;undefined;Provision Windows desktops and apps with VMware and Azure Virtual Desktop;azure;VMware Horizon Cloud on Microsoft Azure
+virtual-desktop-infrastructure;undefined;Provision Windows desktops and apps on Azure with Citrix and Azure Virtual Desktop;azure;Citrix Virtual Apps and Desktops for Azure
+cloud-financial-management;undefined;cost monitoring;aws;AWS Budgets
+cloud-financial-management;undefined;cost data set;aws;AWS Cost and Usage Reports
+cloud-financial-management;undefined;cost analysis;aws;AWS Cost Explorer
+cloud-financial-management;undefined;cost analysis;aws;AWS Cost Explorer
+cloud-financial-management;undefined;instance cost;aws;Reserved Instance Reporting
+cloud-financial-management;undefined;cost savings;aws;Savings plans
+database;undefined;serverless relational database;aws;Amazon Aurora
+database;undefined;serverless key-value database;aws;Amazon DynamoDB
+database;undefined;serverless key-value database;opensource;MongoDB
+database;undefined;managed database service;aws;Amazon Keyspaces (for Apache Cassandra)
+database;undefined;database migration service;aws;AWS Database Migration Service (AWS DMS)
+database;undefined;graph analytics and serverless database;aws;Amazon Neptune
+database;undefined;serverless time series database service;aws;Amazon Timestream
+database;undefined;relational database;aws;Amazon Relational Database Service (Amazon RDS)
+database;undefined;relational database;opensource;MySQL
+database;undefined;relational database;opensource;MariaDB
+database;undefined;redis compatible in memory database;aws;Amazon MemoryDB for Redis
+database;undefined;redis compatible in memory database;aws;Amazon ElastiCache
+database;undefined;Accelerate apps with high-throughput, low-latency data caching;azure;Azure Cache for Redis
+database;undefined;Build or modernize scalable, high-performance apps;azure;Azure Cosmos DB
+database;undefined;Hybrid data integration at enterprise scale, made easy;azure;Azure Data Factory
+database;undefined;Deploy applications to the cloud with enterprise-ready, fully managed community MariaDB;azure;Azure Database for MariaDB
+database;undefined;Fully managed, scalable MySQL Database;azure;Azure Database for MySQL
+database;undefined;Fully managed, intelligent, and scalable PostgreSQL;azure;Azure Database for PostgreSQL
+database;undefined;Simplify on-premises database migration to the cloud;azure;Azure Database Migration Service
+database;undefined;Modern SQL family for migration and app modernization;azure;Azure SQL
+database;undefined;Managed, intelligent SQL in the cloud;azure;Azure SQL Database
+database;undefined;Consume Services privately on Azure Platform;azure;Azure SQL Edge
+database;undefined;Managed, always up-to-date SQL instance in the cloud;azure;Azure SQL Managed Instance
+database;undefined;Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO);azure;SQL Server on Azure Virtual Machines
+database;undefined;NoSQL key-value store using semi-structured datasets;azure;Table Storage
+database;undefined;Modernize Cassandra data clusters with a managed instance in the cloud;azure;Azure Managed Instance for Apache Cassandra
+database;undefined;Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence;azure;Azure confidential ledger PREVIEW
+web;undefined;Publish APIs to developers, partners, and employees securely and at scale;azure;API Management
+web;undefined;Fast, scalable parameter storage for app configuration;azure;App Configuration
+web;undefined;Quickly create powerful cloud apps for web and mobile;azure;App Service
+web;undefined;Enterprise scale search for app development;azure;Azure Cognitive Search
+web;undefined;Create location-aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure;azure;Azure Maps
+web;undefined;Add real-time web functionalities easily;azure;Azure SignalR Service
+web;undefined;Build and deploy Spring Boot apps with a fully managed service from Microsoft and VMware;azure;Azure Spring Cloud
+web;undefined;Fast, reliable content delivery network with global reach;azure;Content Delivery Network
+web;undefined;Send push notifications to any platform from any back end;azure;Notification Hubs
+web;undefined;Streamlined full-stack development from source code to global high availability;azure;Static Web Apps
+web;undefined;Build rich communication experiences with the same secure platform used by Microsoft Teams;azure;Azure Communication Services
+web;undefined;Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern;azure;Azure Web PubSub
+web;undefined;Easily add real-time collaborative experiences to your apps with Fluid Framework;azure;Azure Fluid Relay PREVIEW
+web;undefined;Run containerized web apps on Windows and Linux;azure;Web App for containers
+devops;undefined;Create, host, and share packages with your team;azure;Azure Artifacts
+devops;undefined;Plan, track, and discuss work across your teams;azure;Azure Boards
+devops;undefined;Services for teams to share code, track work, and ship software;azure;Azure DevOps
+devops;undefined;Quickly create environments using reusable templates and artifacts;azure;Azure DevTest Labs
+devops;undefined;Full observability into your applications, infrastructure, and network;azure;Azure Monitor
+devops;undefined;Continuously build, test, and deploy to any platform and cloud;azure;Azure Pipelines
+devops;undefined;Get unlimited, cloud-hosted private Git repos for your project;azure;Azure Repos
+devops;undefined;Test and ship confidently with an exploratory test toolkit;azure;Azure Test Plans
+devops;undefined;Use your favorite DevOps tools with Azure;azure;DevOps tool integrations
+devops;undefined;Optimize app performance with high-scale load testing;azure;Azure Load Testing PREVIEW
+identity;undefined;Synchronize on-premises directories and enable single sign-on;azure;Azure Active Directory (Azure AD)
+identity;undefined;Manage your domain controllers in the cloud;azure;Azure Active Directory Domain Services
+identity;undefined;Better protect your sensitive information anytime, anywhere;azure;Azure Information Protection
+identity;undefined;Consumer identity and access management in the cloud;azure;Azure Active Directory External Identities
+games;undefined;game server;aws;Amazon GameLift
+games;undefined;game engine integration toolkit;aws;AWS GameKit
+satellite;undefined;satellite communication;aws;AWS Ground Station
+artificial-intelligence;ai_natural-language-understanding;automatic speech recognition;aws;Amazon Transcribe
+artificial-intelligence;ai_natural-language-understanding;transcribe health patient-clinician conversation;aws;AWS HealthScribe
+quantum-technologies;undefined;quantum computing;aws;Amazon Bracket
+artificial-intelligence;undefined;time-series forecasting;aws;Amazon Forecast
+artificial-intelligence;undefined;conversational interface development;aws;Amazon Lex
+artificial-intelligence;undefined;vision service api;aws;Amazon Rekognition
+artificial-intelligence;undefined;translation;aws;Amazon Translate
+artificial-intelligence;undefined;intelligence search;aws;Amazon Kendra
+artificial-intelligence;undefined;software code analysis;aws;Amazon CodeGuru
+artificial-intelligence;undefined;business and operational data monitoring;aws;Amazon Lookout
+artificial-intelligence;undefined;business and operational data monitoring;aws;AMazon devOps Guru
+artificial-intelligence;undefined;health data analysis;aws;AWS HealthLake, Amazon Comprehend Medical
+artificial-intelligence;undefined;computer vision;aws;AWS Panorama
+artificial-intelligence;undefined;code generator;aws;Amazon CodeWhisperer
+artificial-intelligence;undefined;genomic and biological data analysis;aws;Amazon HealthOmics
+artificial-intelligence;undefined;medical images analysis;aws;AWS HealthImaging
+artificial-intelligence;undefined;foundation models;aws;Amazon Bedrock
+artificial-intelligence;undefined;application anomalies detection;azure;AI Anomaly Detector
+artificial-intelligence;undefined;bots creation and connection;azure;Azure AI Bot Services
+artificial-intelligence;undefined;search and retrieval;azure;Azure AI Search
+artificial-intelligence;undefined;Design AI with Apache Spark -based analytics;azure;Azure Databricks
+artificial-intelligence;undefined;An enterprise-grade service for the end-to-end machine learning lifecycle;azure;Azure Machine Learning
+artificial-intelligence;undefined;Cloud platform to host and share curated open datasets to accelerate development of machine learning models;azure;Azure Open Datasets
+artificial-intelligence;undefined;Add cognitive capabilities to apps with APIs and AI services;azure;Azure Cognitive Services
+artificial-intelligence;undefined;An AI service for quickly building video analytics solutions;azure;Azure Video Analyzer PREVIEW
+artificial-intelligence;undefined;Distill actionable information from images;azure;computer Vision
+artificial-intelligence;undefined;Automated image, text, and video moderation;azure;Content Moderator
+artificial-intelligence;undefined;Easily customize your own state-of-the-art computer vision models for your unique use case;azure;Custom Vision
+artificial-intelligence;undefined;Rich pre-configured environment for AI development;azure;Data Science Virtual Machines
+artificial-intelligence;undefined;Detect, identify, analyze, organize, and tag faces in photos;azure;Face API
+artificial-intelligence;undefined;The AI-powered document extraction service that understands your forms;azure;Azure Form Recognizer
+artificial-intelligence;undefined;Empower users of all ages and abilities to read and comprehend text;azure;Azure Immersive Reader
+artificial-intelligence;undefined;Build for mixed reality using AI sensors;azure;Kinect DK
+artificial-intelligence;undefined;Teach your apps to understand commands from your users;azure;Language Understanding (LUIS)
+artificial-intelligence;undefined;Power genome sequencing & research insights;azure;Microsoft Genomics
+artificial-intelligence;undefined;Deliver personalized, relevant experiences for each of your users;azure;Personalizer
+artificial-intelligence;undefined;Create intelligent industrial control systems using simulations;azure;Project Bonsai PREVIEW
+artificial-intelligence;undefined;Distill information into conversational, easy-to-navigate answers;azure;QnA Maker
+artificial-intelligence;undefined;A Speech service feature that verifies and identifies speakers;azure;Speaker recognition
+artificial-intelligence;undefined;A Speech service feature that accurately converts spoken audio to text;azure;Speech to text
+artificial-intelligence;undefined;Easily integrate real-time speech translation to your app;azure;Speech translation
+artificial-intelligence;undefined;Add natural language capabilities with a single API call;azure;Cognitive Service for Language
+artificial-intelligence;undefined;A Speech service feature that converts text to lifelike speech;azure;Text to speech
+artificial-intelligence;undefined;Easily conduct machine translation with a simple REST API call;azure;Translator
+artificial-intelligence;undefined;An AI service that monitors metrics and diagnoses issues;azure;Azure Metrics Advisor
+artificial-intelligence;undefined;A managed service purpose-built for development of virtual healthcare assistants;azure;Health Bot
+artificial-intelligence;undefined;Accelerate edge intelligence from silicon to service;azure;Azure Percept PREVIEW
+artificial-intelligence;undefined;Specialized services that enable organizations to accelerate time to value in applying AI to solve common scenarios;azure;Azure Applied AI Services
+artificial-intelligence;undefined;Apply advanced language models to a variety of use cases;azure;Azure OpenAI Service PREVIEW
+business-application;undefined;intelligent assistant;aws;Alexa for business
+business-application;undefined;online communication;aws;Amazon Chime
+business-application;undefined;online communication;aws;Amazon Chime SDK
+business-application;undefined;email and calendar;aws;Amazon WorkMail
+business-application;undefined;contact center;aws;Amazon Connect
+business-application;undefined;customer multichannel communication;aws;Amazon Pinpoint
+business-application;undefined;email service;aws;Amazon Simple Email Service (SES)
+business-application;undefined;document sharing and collaboration;aws;Amazon WorkDocs
+business-application;undefined;document sharing and collaboration;aws;Amazon WorkDocs SDK
+business-application;undefined;end-to-end encryption;aws;Amazon Wickr
+business-application;undefined;supply chain application;aws;AWS Supply Chain
+business-application;undefined;software as a service applications connectivity;aws;AWS AppFabric
+mobile;undefined;Publish APIs to developers, partners, and employees securely and at scale;azure;API Management
+mobile;undefined;Fast, scalable parameter storage for app configuration;azure;App Configuration
+mobile;undefined;Quickly create powerful cloud apps for web and mobile;azure;App Service
+mobile;undefined;Enterprise scale search for app development;azure;Azure Cognitive Search
+mobile;undefined;Create location-aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure;azure;Azure Maps
+mobile;undefined;Add cognitive capabilities to apps with APIs and AI services;azure;Azure Cognitive Services
+mobile;undefined;Send push notifications to any platform from any back end;azure;Notification Hubs
+mobile;undefined;Create multi-user, spatially aware mixed reality experiences;azure;Spatial Anchors
+mobile;undefined;Build, test, release, and monitor your mobile and desktop apps;azure;Visual Studio App Center
+mobile;undefined;Create cloud-powered mobile apps faster;azure;Xamarin
+mobile;undefined;Build rich communication experiences with the same secure platform used by Microsoft Teams;azure;Azure Communication Services
+artificial-intelligence;ai_ai-generative;content generation assistant;aws;Amazon Q
+artificial-intelligence;ai_ai-generative;content generation assistant;azure;Microsoft Copilot
+end-user-computing;undefined;end user computing;aws;Amazon AppStream
+developer-tools;undefined;integrated development environment;aws;AWS Cloud9
+developer-tools;undefined;integrated development environment;microsoft;Visual Studio
+developer-tools;undefined;build;aws;AWS CodeBuild
+developer-tools;undefined;source control;aws;AWS CodeCommit
+developer-tools;undefined;application deployment;aws;AWS CodeDeploy
+developer-tools;undefined;ci/cd pipeline;aws;AWS CodePipeline
+developer-tools;undefined;ci/cd pipeline;aws;AWS CodeCatalyst
+developer-tools;undefined;command line interface;aws;AWS Command Line Interface
+developer-tools;undefined;application analysis, trace and debug;aws;AWS X-Ray
+developer-tools;undefined;infrastructure as code;aws;AWS Cloud Development Kit (AWS CDK)
+developer-tools;undefined;infrastructure as code;aws;AWS CloudFormation
+developer-tools;undefined;artifact repository;aws;AWS CodeArtifact
+developer-tools;undefined;browser shell;aws;AWS CloudShell
+developer-tools;undefined;open java development kit distribution;aws;Amazon Coretto
+developer-tools;undefined;cloud control api;aws;AWS Cloud Control API
+developer-tools;undefined;visual application design and build;aws;AWS Application Composer
+developer-tools;undefined;resilience testing tool;aws;AWS Fault Injection Service
+developer-tools;undefined;Fast, scalable parameter storage for app configuration;azure;App Configuration
+developer-tools;undefined;Services for teams to share code, track work, and ship software;azure;Azure DevOps
+developer-tools;undefined;Quickly create environments using reusable templates and artifacts;azure;Azure DevTest Labs
+developer-tools;undefined;Set up labs for classrooms, trials, development and testing, and other scenarios;azure;Azure Lab Services
+developer-tools;undefined;Continuously build, test, and deploy to any platform and cloud;azure;Azure Pipelines
+developer-tools;undefined;Get the SDKs and command-line tools you need;azure;SDKs
+developer-tools;undefined;Powerful and flexible environment to develop apps in the cloud;azure;Visual Studio
+developer-tools;undefined;A powerful, lightweight code editor for cloud development;azure;Visual Studio Code
+developer-tools;undefined;Optimize app performance with high-scale load testing;azure;Azure Load Testing PREVIEW
+networking-and-content-delivery;undefined;virtual network connection;aws;AWS Transit Gateway
+networking-and-content-delivery;undefined;content delivery network;aws;Amazon Cloud Front
+networking-and-content-delivery;undefined;Domain Name Server;aws;Amazon Route 53
+networking-and-content-delivery;undefined;virtual network;aws;Amazon Virtual Private Cloud (VPC)
+networking-and-content-delivery;undefined;application level networking;aws;AWS App Mesh
+networking-and-content-delivery;undefined;cloud resource discovery;aws;AWS Cloud Map
+networking-and-content-delivery;undefined;network connection;aws;AWS Direct Connect
+networking-and-content-delivery;undefined;network performance;aws;AWS Global Accelerator
+networking-and-content-delivery;undefined;virtual private network;aws;AWS Client VPN
+networking-and-content-delivery;undefined;virtual private network;aws;AWS Site-to-Site VPN
+networking-and-content-delivery;undefined;load balancer;aws;Application Load Balancer
+networking-and-content-delivery;undefined;load balancer;aws;Network Load Balancer
+networking-and-content-delivery;undefined;load balancer;aws;Gateway Load Balancer
+networking-and-content-delivery;undefined;private link;aws;AWS PrivateLink
+networking-and-content-delivery;undefined;wide area network;aws;AWS Cloud WAN
+networking-and-content-delivery;undefined;cellular network;aws;AWS Private 5G
+networking-and-content-delivery;undefined;network traffic management;aws;AWS VPC Lattice
+networking-and-content-delivery;undefined;secure access to corporate applications;aws;AWS Verified Access
+networking-and-content-delivery;undefined;api gateway;aws;Amazon API Gateway
+networking-and-content-delivery;undefined;Build secure, scalable, highly available web front ends in Azure;azure;Application Gateway
+networking-and-content-delivery;undefined;Private and fully managed RDP and SSH access to your virtual machines;azure;Azure Bastion
+networking-and-content-delivery;undefined;Protect your applications from Distributed Denial of Service (DDoS) attacks;azure;Azure DDoS Protection
+networking-and-content-delivery;undefined;Host your DNS domain in Azure;azure;Azure DNS
+networking-and-content-delivery;undefined;Experience a fast, reliable, and private connection to Azure;azure;Azure ExpressRoute
+networking-and-content-delivery;undefined;Cloud-native and intelligent network firewall security;azure;Azure Firewall
+networking-and-content-delivery;undefined;Deliver high availability and network performance to your apps;azure;Load Balancer
+networking-and-content-delivery;undefined;Central network security policy and route management for globally distributed, software-defined perimeters;azure;Azure Firewall Manager
+networking-and-content-delivery;undefined;Fast, reliable, and more secure cloud content delivery service with intelligent threat protection;azure;Azure Front Door
+networking-and-content-delivery;undefined;Test how networking infrastructure changes will impact your customers' performance.;azure;Azure Internet Analyzer PREVIEW
+networking-and-content-delivery;undefined;Private access to services hosted on the Azure platform, keeping your data on the Microsoft network;azure;Azure Private Link
+networking-and-content-delivery;undefined;Fast, reliable content delivery network with global reach;azure;Content Delivery Network
+networking-and-content-delivery;undefined;Network performance monitoring and diagnostics solution;azure;Network Watcher
+networking-and-content-delivery;undefined;Route incoming traffic for high performance and availability;azure;Traffic Manager
+networking-and-content-delivery;undefined;Provision private networks, optionally connect to on-premises datacenters;azure;Virtual Network
+networking-and-content-delivery;undefined;Optimize and automate branch to branch connectivity through Azure;azure;Virtual WAN
+networking-and-content-delivery;undefined;Establish secure, cross-premises connectivity;azure;VPN Gateway
+networking-and-content-delivery;undefined;A cloud-native web application firewall (WAF) service that provides powerful protection for web apps;azure;Web Application Firewall
+networking-and-content-delivery;undefined;Satellite ground station and scheduling services for fast downlinking of data;azure;Azure Orbital PREVIEW
+networking-and-content-delivery;undefined;Enable network appliances to exchange routes dynamically with virtual networks in Azure;azure;Azure Route Server
+networking-and-content-delivery;undefined;Extend Azure management for deploying 5G and SD-WAN network functions on edge devices;azure;Azure Network Function Manager
+networking-and-content-delivery;undefined;Centrally manage virtual networks in Azure from a single pane of glass;azure;Azure Virtual Network Manager PREVIEW
+networking-and-content-delivery;undefined;Rapidly deploy and manage private 5G networks at the enterprise edge;azure;Azure Private 5G Core PREVIEW
+hybrid-multicloud;undefined;Synchronize on-premises directories and enable single sign-on;azure;Azure Active Directory (Azure AD)
+hybrid-multicloud;undefined;Secure, develop, and operate infrastructure, apps, and Azure services anywhere;azure;Azure Arc
+hybrid-multicloud;undefined;Fully managed, intelligent, and scalable PostgreSQL;azure;Azure Database for PostgreSQL
+hybrid-multicloud;undefined;Services for teams to share code, track work, and ship software;azure;Azure DevOps
+hybrid-multicloud;undefined;Experience a fast, reliable, and private connection to Azure;azure;Azure ExpressRoute
+hybrid-multicloud;undefined;Extend cloud intelligence and analytics to edge devices;azure;Azure IoT Edge
+hybrid-multicloud;undefined;Cloud-native SIEM and intelligent security analytics;azure;Microsoft Sentinel
+hybrid-multicloud;undefined;Managed, intelligent SQL in the cloud;azure;Azure SQL Database
+hybrid-multicloud;undefined;Consume Services privately on Azure Platform;azure;Azure SQL Edge
+hybrid-multicloud;undefined;Build and run innovative hybrid apps across cloud boundaries;azure;Azure Stack
+hybrid-multicloud;undefined;Extend threat protection to any infrastructure;azure;Microsoft Defender for Cloud
+hybrid-multicloud;undefined;Run your production workloads anywhere on hybrid, familiar hyperconverged infrastructure;azure;Azure Stack HCI
+hybrid-multicloud;undefined;Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware;azure;Azure Stack Hub
+hybrid-multicloud;undefined;An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge;azure;Azure Stack Edge
+hybrid-multicloud;undefined;A complete, rugged datacenter solution;azure;Azure Modular Datacenter
+mixed-reality;undefined;Use IoT spatial intelligence to create models of physical environments;azure;Azure Digital Twins
+mixed-reality;undefined;Build for mixed reality using AI sensors;azure;Kinect DK
+mixed-reality;undefined;Render high-quality, interactive 3D content with real-time streaming;azure;Remote Rendering
+mixed-reality;undefined;Create multi-user, spatially aware mixed reality experiences;azure;Spatial Anchors
+mixed-reality;undefined;Automatically align and anchor 3D content to objects in the physical world;azure;Object Anchors PREVIEW
+artificial-intelligence;ai_natural-language-processing;document data extract and analysis;aws;Amazon Comprehend
+artificial-intelligence;ai_natural-language-processing;health data extract and analysis;aws;Amazon Comprehend Medical
+artificial-intelligence;ai_natural-language-processing;text to speech;aws;Amazon Polly
+blockchain;undefined;managed blockchain;aws;Amazon Blockchain
+blockchain;undefined;ledger database;aws;Amazon Quantum Ledger Database
+management-and-governance;undefined;monitoring, logs and alerts;aws;Amazon CloudWatch
+management-and-governance;undefined;auto scaling;aws;AWS Auto scaling
+management-and-governance;undefined;auto scaling;aws;AWS Application Auto Scaling
+management-and-governance;undefined;asset audit and evaluate resources;aws;AWS Config
+management-and-governance;undefined;software license manager;aws;AWS License Manager
+management-and-governance;undefined;cloud resources events and changes management;aws;AWS Health Dashboard
+management-and-governance;undefined;governance, compliance and audit of account;aws;AWS CloudTrail
+management-and-governance;undefined;share, organize, and govern IaC templates;aws;AWS Service Catalog
+management-and-governance;undefined;control of infrastructure resources;aws;AWS Systems Manager
+management-and-governance;undefined;infrastructure inspection for finance, availability and performance recommendations;aws;AWS Trusted Advisor
+management-and-governance;undefined;cloud architecture audit;aws;AWS Well-Architected Tool
+management-and-governance;undefined;setup of cloud multi account environment (landing zone);aws;AWS Control Tower
+management-and-governance;undefined;organization and account management;aws;AWS Organizations
+management-and-governance;undefined;centralized management of configuration data;aws;AWS AppConfig
+management-and-governance;undefined;chatbot;aws;AWS chatbot
+management-and-governance;undefined;backup and restore;aws;AWS Blackint Agent
+management-and-governance;undefined;data visualization;aws;AWS Managed Grafana
+management-and-governance;undefined;monitoring;opensource;prometheus
+management-and-governance;undefined;telemetry data;opensource;OpenTelemetry
+management-and-governance;undefined;deployment workflow tool;aws;AWS Proton
+management-and-governance;undefined;configuring and deploying third party application;aws;AWS Launch Wizard
+management-and-governance;undefined;it service management;aws;AWS Service Management Connector (SMC)
+management-and-governance;undefined;telecom network build;aws;AWS Telco Network Builder
+management-and-governance;undefined;workload rightsizing;aws;AWS Compute Optimizer
+management-and-governance;undefined;console;aws;AWS console Application
+management-and-governance;undefined;console;aws;AWS Console Mobile Application
+management-and-governance;undefined;Simplify cloud management with process automation;azure;Automation
+management-and-governance;undefined;Your personalized Azure best practices recommendation engine;azure;Azure Advisor
+management-and-governance;undefined;Simplify data protection with built-in backup management at scale;azure;Azure Backup
+management-and-governance;undefined;Enabling quick, repeatable creation of governed environments;azure;Azure Blueprints PREVIEW
+management-and-governance;undefined;Empowering service providers to manage customers at scale and with precision;azure;Azure Lighthouse
+management-and-governance;undefined;Simplify management of cloud offerings;azure;Azure Managed Applications
+management-and-governance;undefined;Discover, assess, right-size, and migrate your on-premises virtual machines (VMs) to Azure;azure;Azure Migrate
+management-and-governance;undefined;Stay connected to your Azure resources anytime, anywhere;azure;Azure mobile app
+management-and-governance;undefined;Full observability into your applications, infrastructure, and network;azure;Azure Monitor
+management-and-governance;undefined;Implement corporate governance and standards at scale;azure;Azure Policy
+management-and-governance;undefined;Simplify how you manage your app resources;azure;Azure Resource Manager
+management-and-governance;undefined;Deliver infrastructure as code for all your Azure resources using Resource Manager;azure;Azure Resource Manager templates
+management-and-governance;undefined;Personalized guidance and support for when issues in Azure services affect you;azure;Azure Service Health
+management-and-governance;undefined;Keep your business running with built-in disaster recovery service;azure;Azure Site Recovery
+management-and-governance;undefined;Streamline Azure administration with a browser-based shell;azure;Cloud Shell
+management-and-governance;undefined;Manage your cloud spending with confidence;azure;Azure Cost Management and Billing
+management-and-governance;undefined;Build, manage, and monitor all Azure products in a single, unified console;azure;Microsoft Azure portal
+management-and-governance;undefined;Network performance monitoring and diagnostics solution;azure;Network Watcher
+management-and-governance;undefined;Route incoming traffic for high performance and availability;azure;Traffic Manager
+management-and-governance;undefined;Simplify and optimize IT management with automated operations;azure;Azure Automanage PREVIEW
+management-and-governance;undefined;Simplify how you move multiple resources between Azure regions;azure;Azure Resource Mover
+management-and-governance;undefined;A unified data governance solution that maximizes the business value of your data;azure;Azure Purview
+management-and-governance;undefined;Improve application resilience by introducing faults and simulating outages;azure;Azure Chaos Studio PREVIEW
+artificial-intelligence;ai_machine-learning;hardware engine;aws;Amazon Elastic Inferentia
+artificial-intelligence;ai_machine-learning;individualized recommendations;aws;Amazon Personalize
+artificial-intelligence;ai_machine-learning;dataset labeling;aws;Amazon SageMaker Ground Truth
+artificial-intelligence;ai_machine-learning;optical character recognition (OCR);aws;Amazon Textract
+artificial-intelligence;ai_machine-learning;deep learning;aws;AWS Deep Learning
+artificial-intelligence;ai_machine-learning;deep learning;aws;AWS Deep Learning Containers
+artificial-intelligence;ai_machine-learning;deep learning;aws;AWS Deeep Lens
+artificial-intelligence;ai_machine-learning;deep learning;aws;AWS DeepRacer
+artificial-intelligence;ai_machine-learning;deep learning;aws;AWS DeepComposer
+artificial-intelligence;ai_machine-learning;deep learning;opensource;TensorFlow
+artificial-intelligence;ai_machine-learning;deep learning;opensource;PyTorch
+artificial-intelligence;ai_machine-learning;deep learning;opensource;Apache MXNet
+artificial-intelligence;ai_machine-learning;fraud detection;aws;Amazon Fraud Detector
+artificial-intelligence;ai_machine-learning;sdk;aws;AWS Neuron
+integration;undefined;Publish APIs to developers, partners, and employees securely and at scale;azure;API Management
+integration;undefined;A unified solution that helps protect and combine health data in the cloud and generates healthcare insights with analytics;azure;Azure Healthcare APIs
+integration;undefined;Reliable event delivery at massive scale;azure;Event Grid
+integration;undefined;Automate the access and use of data across clouds;azure;Logic Apps
+integration;undefined;Connect across private and public cloud environments;azure;Service Bus
+integration;undefined;Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern;azure;Azure Web PubSub
+containers;undefined;orchestrator;aws;Amazon Elastic Kubernetes Service (EKS)
+containers;undefined;orchestrator;aws;Amazon Elastic Container Service (ECS)
+containers;undefined;registry;aws;Amazon Elastic Container Registry (ECR)
+containers;undefined;serverless compute engine;aws;AWS Fargate
+containers;undefined;serverless compute engine;aws;Red Hat OpenShift Service on AWS (ROSA)
+containers;undefined;serverless compute engine;redhat;Openshift
+containers;undefined;Fast, scalable parameter storage for app configuration;azure;App Configuration
+containers;undefined;Deploy and scale containers on managed Kubernetes;azure;Azure Kubernetes Service (AKS)
+containers;undefined;Deploy and scale containers on managed Red Hat OpenShift;azure;Azure Red Hat OpenShift
+containers;undefined;Build and deploy modern apps and microservices using serverless containers;azure;Azure Container Apps PREVIEW
+containers;undefined;Execute event-driven serverless code with an end-to-end development experience;azure;Azure Functions
+containers;undefined;Run containerized web apps on Windows and Linux;azure;Web App for containers
+containers;undefined;Launch containers with hypervisor isolation;azure;Azure Container Instances
+containers;undefined;Deploy and operate always-on, scalable, distributed apps;azure;Azure Service Fabric
+containers;undefined;Build, store, secure, and replicate container images and artifacts;azure;Azure Container Registry
+front-end-web-and-mobile;undefined;web and mobile application full stack development;aws;AWS Amplify
+front-end-web-and-mobile;undefined;location functionality, maps, points of interest, geocoding, routing, tracking, geofencing;aws;Amazon location service

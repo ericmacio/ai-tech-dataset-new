@@ -1,2 +1,0 @@
-{"name": "game server", "aws": ["Amazon GameLift"]}
-{"name": "game engine integration toolkit", "aws": ["AWS GameKit"]}

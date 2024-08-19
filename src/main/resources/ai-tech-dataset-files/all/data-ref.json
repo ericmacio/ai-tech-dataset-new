@@ -1,0 +1,3887 @@
+[
+  {
+    "name": "analytics",
+    "domains": [
+      {
+        "name": "big data",
+        "items": [
+          {
+            "description": "big data platform",
+            "provider": "aws",
+            "product": "Amazon EMR"
+          },
+          {
+            "description": "big data platform",
+            "provider": "apache",
+            "product": "Apache Adoop"
+          },
+          {
+            "description": "big data platform",
+            "provider": "apache",
+            "product": "Apache Spark"
+          },
+          {
+            "description": "Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters",
+            "provider": "azure",
+            "product": "HDInsight"
+          },
+          {
+            "description": "Predictive analytics, machine learning, and statistical modeling for big data",
+            "provider": "azure",
+            "product": "R Server for HDInsight"
+          }
+        ]
+      },
+      {
+        "name": "business intelligence (BI) platform",
+        "items": [
+          {
+            "description": "data analytics report",
+            "provider": "aws",
+            "product": "Amazon Quicksight"
+          },
+          {
+            "description": "White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications",
+            "provider": "azure",
+            "product": "Power BI Embedded"
+          }
+        ]
+      },
+      {
+        "name": "data analysis",
+        "items": [
+          {
+            "description": "data matching",
+            "provider": "aws",
+            "product": "AWS Entity Resolution"
+          },
+          {
+            "description": "data preparation for analytics and machine learning",
+            "provider": "aws",
+            "product": "AWS Glue DataBrew"
+          }
+        ]
+      },
+      {
+        "name": "data analytics platform",
+        "items": [
+          {
+            "description": "data analytics",
+            "provider": "aws",
+            "product": "Amazon Kinesis Data Analytics"
+          },
+          {
+            "description": "Enterprise grade analytics engine as a service",
+            "provider": "azure",
+            "product": "Azure Analysis Services"
+          },
+          {
+            "description": "Design AI with Apache Spark based analytics",
+            "provider": "azure",
+            "product": "Azure Databricks"
+          },
+          {
+            "description": "Unified analytics platform",
+            "provider": "azure",
+            "product": "Microsoft Fabric"
+          },
+          {
+            "description": "Limitless analytics with unmatched time to insight",
+            "provider": "azure",
+            "product": "Azure Synapse Analytics"
+          },
+          {
+            "description": "Distributed analytics service that makes big data easy",
+            "provider": "azure",
+            "product": "Data Lake Analytics"
+          },
+          {
+            "description": "financial analytics",
+            "provider": "aws",
+            "product": "Amazon FinSpace"
+          }
+        ]
+      },
+      {
+        "name": "data analytics repository",
+        "items": [
+          {
+            "description": "online analytical processing",
+            "provider": "aws",
+            "product": "Amazon Redshift"
+          }
+        ]
+      },
+      {
+        "name": "data governance",
+        "items": [
+          {
+            "description": "A unified data governance solution that maximizes the business value of your data",
+            "provider": "azure",
+            "product": "Azure Purview"
+          },
+          {
+            "description": "data management",
+            "provider": "aws",
+            "product": "Amazon DataZone"
+          }
+        ]
+      },
+      {
+        "name": "data integration",
+        "items": [
+          {
+            "description": "A secure, high throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant",
+            "provider": "azure",
+            "product": "Microsoft Graph Data Connect"
+          },
+          {
+            "description": "Receive telemetry from millions of devices",
+            "provider": "azure",
+            "product": "Event Hubs"
+          },
+          {
+            "description": "data transform and analysis",
+            "provider": "aws",
+            "product": "Amazon Data Firehose"
+          },
+          {
+            "description": "data transform and analysis",
+            "provider": "aws",
+            "product": "AWS Glue"
+          },
+          {
+            "description": "Hybrid data integration at enterprise scale, made easy",
+            "provider": "azure",
+            "product": "Azure Data Factory"
+          }
+        ]
+      },
+      {
+        "name": "data lake",
+        "items": [
+          {
+            "description": "data analytics repository",
+            "provider": "aws",
+            "product": "AWS lake Formation"
+          },
+          {
+            "description": "Scalable, secure data lake for high performance analytics",
+            "provider": "azure",
+            "product": "Azure Data Lake Storage"
+          },
+          {
+            "description": "Hyperscale repository for big data analytics workloads",
+            "provider": "azure",
+            "product": "Azure Data Lake Storage Gen1"
+          }
+        ]
+      },
+      {
+        "name": "data sharing",
+        "items": [
+          {
+            "description": "A simple and safe service for sharing big data with external organizations",
+            "provider": "azure",
+            "product": "Azure Data Share"
+          },
+          {
+            "description": "data sharing",
+            "provider": "aws",
+            "product": "AWS Clean Rooms"
+          }
+        ]
+      },
+      {
+        "name": "enterprise search",
+        "items": [
+          {
+            "description": "search document",
+            "provider": "aws",
+            "product": "Amazon CloudSearch"
+          },
+          {
+            "description": "Fast and highly scalable data exploration service",
+            "provider": "azure",
+            "product": "Azure Data Explorer"
+          }
+        ]
+      },
+      {
+        "name": "log analytics platform",
+        "items": [
+          {
+            "description": "log analytics",
+            "provider": "aws",
+            "product": "Amazon OpenSearch Service"
+          }
+        ]
+      },
+      {
+        "name": "metadata",
+        "items": [
+          {
+            "description": "Get more value from your enterprise data assets",
+            "provider": "azure",
+            "product": "Data Catalog"
+          }
+        ]
+      },
+      {
+        "name": "sql database",
+        "items": [
+          {
+            "description": "database query",
+            "provider": "aws",
+            "product": "Amazon Athena"
+          }
+        ]
+      },
+      {
+        "name": "stream analysis",
+        "items": [
+          {
+            "description": "data stream",
+            "provider": "aws",
+            "product": "Amazon Kinesis Data Stream"
+          },
+          {
+            "description": "video streams",
+            "provider": "aws",
+            "product": "Amazon Kinesis Video Stream"
+          },
+          {
+            "description": "Real time analytics on fast moving streaming data",
+            "provider": "azure",
+            "product": "Azure Stream Analytics"
+          }
+        ]
+      },
+      {
+        "name": "testing",
+        "items": [
+          {
+            "description": "Improve application resilience by introducing faults and simulating outages",
+            "provider": "azure",
+            "product": "Azure Chaos Studio"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "application integration",
+    "domains": [
+      {
+        "name": "data governance",
+        "items": [
+          {
+            "description": "data flow management",
+            "provider": "aws",
+            "product": "Amazon AppFlow"
+          }
+        ]
+      },
+      {
+        "name": "data synchro",
+        "items": [
+          {
+            "description": "data synchronization",
+            "provider": "aws",
+            "product": "AWS AppSync"
+          }
+        ]
+      },
+      {
+        "name": "data transfer",
+        "items": [
+          {
+            "description": "B2B data interchange",
+            "provider": "aws",
+            "product": "AWS B2B data interchange (B2Bi"
+          }
+        ]
+      },
+      {
+        "name": "events management",
+        "items": [
+          {
+            "description": "events bus",
+            "provider": "aws",
+            "product": "AWS EventBridge"
+          }
+        ]
+      },
+      {
+        "name": "message queue",
+        "items": [
+          {
+            "description": "message queue",
+            "provider": "aws",
+            "product": "Amazon Simple Queue Service"
+          },
+          {
+            "description": "message queue",
+            "provider": "aws",
+            "product": "Amazon MQ"
+          }
+        ]
+      },
+      {
+        "name": "notification service",
+        "items": [
+          {
+            "description": "notification service",
+            "provider": "aws",
+            "product": "Amazon Simple Notification Service (SNS)"
+          }
+        ]
+      },
+      {
+        "name": "orchestration",
+        "items": [
+          {
+            "description": "workflows orchestration",
+            "provider": "aws",
+            "product": "AWS Step Functions"
+          },
+          {
+            "description": "workflows orchestration",
+            "provider": "aws",
+            "product": "AWS Express Workflows"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "artificial intelligence",
+    "domains": [
+      {
+        "name": "content generation",
+        "items": [
+          {
+            "description": "code generator",
+            "provider": "aws",
+            "product": "Amazon CodeWhisperer"
+          },
+          {
+            "description": "content generation assistant",
+            "provider": "aws",
+            "product": "Amazon Q"
+          },
+          {
+            "description": "content generation assistant",
+            "provider": "azure",
+            "product": "Microsoft Copilot"
+          }
+        ]
+      },
+      {
+        "name": "conversational interface",
+        "items": [
+          {
+            "description": "conversational interface development",
+            "provider": "aws",
+            "product": "Amazon Lex"
+          },
+          {
+            "description": "Distill information into conversational, easy to navigate answers",
+            "provider": "azure",
+            "product": "QnA Maker"
+          }
+        ]
+      },
+      {
+        "name": "data analysis",
+        "items": [
+          {
+            "description": "software code analysis",
+            "provider": "aws",
+            "product": "Amazon CodeGuru"
+          },
+          {
+            "description": "health data analysis",
+            "provider": "aws",
+            "product": "AWS HealthLake, Amazon Comprehend Medical"
+          },
+          {
+            "description": "genomic and biological data analysis",
+            "provider": "aws",
+            "product": "Amazon HealthOmics"
+          },
+          {
+            "description": "medical images analysis",
+            "provider": "aws",
+            "product": "AWS HealthImaging"
+          },
+          {
+            "description": "application anomalies detection",
+            "provider": "azure",
+            "product": "AI Anomaly Detector"
+          },
+          {
+            "description": "Power genome sequencing & research insights",
+            "provider": "azure",
+            "product": "Microsoft Genomics"
+          }
+        ]
+      },
+      {
+        "name": "data analytics platform",
+        "items": [
+          {
+            "description": "Design AI with Apache Spark based analytics",
+            "provider": "azure",
+            "product": "Azure Databricks"
+          },
+          {
+            "description": "An AI service for quickly building video analytics solutions",
+            "provider": "azure",
+            "product": "Azure Video Analyzer"
+          }
+        ]
+      },
+      {
+        "name": "deep learning",
+        "items": [
+          {
+            "description": "deep learning",
+            "provider": "aws",
+            "product": "AWS Deep Learning"
+          },
+          {
+            "description": "deep learning",
+            "provider": "aws",
+            "product": "AWS Deep Learning Containers"
+          },
+          {
+            "description": "deep learning",
+            "provider": "aws",
+            "product": "AWS Deeep Lens"
+          },
+          {
+            "description": "deep learning",
+            "provider": "aws",
+            "product": "AWS DeepRacer"
+          },
+          {
+            "description": "deep learning",
+            "provider": "aws",
+            "product": "AWS DeepComposer"
+          },
+          {
+            "description": "deep learning",
+            "provider": "opensource",
+            "product": "TensorFlow"
+          },
+          {
+            "description": "deep learning",
+            "provider": "opensource",
+            "product": "PyTorch"
+          },
+          {
+            "description": "deep learning",
+            "provider": "opensource",
+            "product": "Apache MXNet"
+          }
+        ]
+      },
+      {
+        "name": "edge computing",
+        "items": [
+          {
+            "description": "Accelerate edge intelligence from silicon to service",
+            "provider": "azure",
+            "product": "Azure Percept"
+          }
+        ]
+      },
+      {
+        "name": "enterprise search",
+        "items": [
+          {
+            "description": "intelligence search",
+            "provider": "aws",
+            "product": "Amazon Kendra"
+          },
+          {
+            "description": "search and retrieval",
+            "provider": "azure",
+            "product": "Azure AI Search"
+          }
+        ]
+      },
+      {
+        "name": "forecasting",
+        "items": [
+          {
+            "description": "time series forecasting",
+            "provider": "aws",
+            "product": "Amazon Forecast"
+          }
+        ]
+      },
+      {
+        "name": "foundation models",
+        "items": [
+          {
+            "description": "foundation models",
+            "provider": "aws",
+            "product": "Amazon Bedrock"
+          },
+          {
+            "description": "Apply advanced language models to a variety of use cases",
+            "provider": "azure",
+            "product": "Azure OpenAI Service"
+          }
+        ]
+      },
+      {
+        "name": "industrial system",
+        "items": [
+          {
+            "description": "Create intelligent industrial control systems using simulations",
+            "provider": "azure",
+            "product": "Project Bonsaiï"
+          }
+        ]
+      },
+      {
+        "name": "machine learning",
+        "items": [
+          {
+            "description": "An enterprise grade service for the end to end machine learning lifecycle",
+            "provider": "azure",
+            "product": "Azure Machine Learning"
+          },
+          {
+            "description": "Cloud platform to host and share curated open datasets to accelerate development of machine learning models",
+            "provider": "azure",
+            "product": "Azure Open Datasets"
+          },
+          {
+            "description": "hardware engine",
+            "provider": "aws",
+            "product": "Amazon Elastic Inferentia"
+          },
+          {
+            "description": "individualized recommendations",
+            "provider": "aws",
+            "product": "Amazon Personalize"
+          },
+          {
+            "description": "dataset labeling",
+            "provider": "aws",
+            "product": "Amazon SageMaker Ground Truth"
+          },
+          {
+            "description": "fraud detection",
+            "provider": "aws",
+            "product": "Amazon Fraud Detector"
+          },
+          {
+            "description": "sdk",
+            "provider": "aws",
+            "product": "AWS Neuron"
+          }
+        ]
+      },
+      {
+        "name": "moderation",
+        "items": [
+          {
+            "description": "Automated image, text, and video moderation",
+            "provider": "azure",
+            "product": "Content Moderator"
+          }
+        ]
+      },
+      {
+        "name": "monitoring",
+        "items": [
+          {
+            "description": "business and operational data monitoring",
+            "provider": "aws",
+            "product": "Amazon Lookout"
+          },
+          {
+            "description": "business and operational data monitoring",
+            "provider": "aws",
+            "product": "AMazon devOps Guru"
+          },
+          {
+            "description": "An AI service that monitors metrics and diagnoses issues",
+            "provider": "azure",
+            "product": "Azure Metrics Advisor"
+          }
+        ]
+      },
+      {
+        "name": "natural language processing (NLP)",
+        "items": [
+          {
+            "description": "The AI powered document extraction service that understands your forms",
+            "provider": "azure",
+            "product": "Azure Form Recognizer"
+          },
+          {
+            "description": "A Speech service feature that converts text to lifelike speech",
+            "provider": "azure",
+            "product": "Text to speech"
+          },
+          {
+            "description": "document data extract and analysis",
+            "provider": "aws",
+            "product": "Amazon Comprehend"
+          },
+          {
+            "description": "health data extract and analysis",
+            "provider": "aws",
+            "product": "Amazon Comprehend Medical"
+          },
+          {
+            "description": "text to speech",
+            "provider": "aws",
+            "product": "Amazon Polly"
+          },
+          {
+            "description": "optical character recognition (OCR)",
+            "provider": "aws",
+            "product": "Amazon Textract"
+          }
+        ]
+      },
+      {
+        "name": "natural language understanding (NLU)",
+        "items": [
+          {
+            "description": "automatic speech recognition",
+            "provider": "aws",
+            "product": "Amazon Transcribe"
+          },
+          {
+            "description": "transcribe health patient clinician conversation",
+            "provider": "aws",
+            "product": "AWS HealthScribe"
+          },
+          {
+            "description": "Empower users of all ages and abilities to read and comprehend text",
+            "provider": "azure",
+            "product": "Azure Immersive Reader"
+          },
+          {
+            "description": "Teach your apps to understand commands from your users",
+            "provider": "azure",
+            "product": "Language Understanding (LUIS)"
+          },
+          {
+            "description": "A Speech service feature that verifies and identifies speakers",
+            "provider": "azure",
+            "product": "Speaker recognition"
+          },
+          {
+            "description": "A Speech service feature that accurately converts spoken audio to text",
+            "provider": "azure",
+            "product": "Speech to text"
+          },
+          {
+            "description": "Easily integrate real time speech translation to your app",
+            "provider": "azure",
+            "product": "Speech translation"
+          },
+          {
+            "description": "Add natural language capabilities with a single API call",
+            "provider": "azure",
+            "product": "Cognitive Service for Language"
+          }
+        ]
+      },
+      {
+        "name": "sensors",
+        "items": [
+          {
+            "description": "Build for mixed reality using AI sensors",
+            "provider": "azure",
+            "product": "Kinect DK"
+          }
+        ]
+      },
+      {
+        "name": "smart assistant",
+        "items": [
+          {
+            "description": "bots creation and connection",
+            "provider": "azure",
+            "product": "Azure AI Bot Services"
+          },
+          {
+            "description": "A managed service purpose built for development of virtual healthcare assistants",
+            "provider": "azure",
+            "product": "Health Bot"
+          }
+        ]
+      },
+      {
+        "name": "translation",
+        "items": [
+          {
+            "description": "translation",
+            "provider": "aws",
+            "product": "Amazon Translate"
+          },
+          {
+            "description": "Easily conduct machine translation with a simple REST API call",
+            "provider": "azure",
+            "product": "Translator"
+          }
+        ]
+      },
+      {
+        "name": "user experience",
+        "items": [
+          {
+            "description": "Deliver personalized, relevant experiences for each of your users",
+            "provider": "azure",
+            "product": "Personalizer"
+          }
+        ]
+      },
+      {
+        "name": "vision",
+        "items": [
+          {
+            "description": "vision service api",
+            "provider": "aws",
+            "product": "Amazon Rekognition"
+          },
+          {
+            "description": "computer vision",
+            "provider": "aws",
+            "product": "AWS Panorama"
+          },
+          {
+            "description": "Distill actionable information from images",
+            "provider": "azure",
+            "product": "computer Vision"
+          },
+          {
+            "description": "Easily customize your own state of the art computer vision models for your unique use case",
+            "provider": "azure",
+            "product": "Custom Vision"
+          },
+          {
+            "description": "Detect, identify, analyze, organize, and tag faces in photos",
+            "provider": "azure",
+            "product": "Face API"
+          }
+        ]
+      },
+      {
+        "name": "web and mobile application",
+        "items": [
+          {
+            "description": "Add cognitive capabilities to apps with APIs and AI services",
+            "provider": "azure",
+            "product": "Azure Cognitive Services"
+          },
+          {
+            "description": "Rich pre configured environment for AI development",
+            "provider": "azure",
+            "product": "Data Science Virtual Machines"
+          },
+          {
+            "description": "Specialized services that enable organizations to accelerate time to value in applying AI to solve common scenarios",
+            "provider": "azure",
+            "product": "Azure Applied AI Services"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "blockchain",
+    "domains": [
+      {
+        "name": "blockchain",
+        "items": [
+          {
+            "description": "managed blockchain",
+            "provider": "aws",
+            "product": "Amazon Blockchain"
+          }
+        ]
+      },
+      {
+        "name": "quantum computing",
+        "items": [
+          {
+            "description": "ledger database",
+            "provider": "aws",
+            "product": "Amazon Quantum Ledger Database"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "business application",
+    "domains": [
+      {
+        "name": "collaborative work",
+        "items": [
+          {
+            "description": "document sharing and collaboration",
+            "provider": "aws",
+            "product": "Amazon WorkDocs"
+          },
+          {
+            "description": "document sharing and collaboration",
+            "provider": "aws",
+            "product": "Amazon WorkDocs SDK"
+          }
+        ]
+      },
+      {
+        "name": "cryptography",
+        "items": [
+          {
+            "description": "end to end encryption",
+            "provider": "aws",
+            "product": "Amazon Wickr"
+          }
+        ]
+      },
+      {
+        "name": "interoperability",
+        "items": [
+          {
+            "description": "software as a service applications connectivity",
+            "provider": "aws",
+            "product": "AWS AppFabric"
+          }
+        ]
+      },
+      {
+        "name": "rich media",
+        "items": [
+          {
+            "description": "online communication",
+            "provider": "aws",
+            "product": "Amazon Chime"
+          },
+          {
+            "description": "online communication",
+            "provider": "aws",
+            "product": "Amazon Chime SDK"
+          },
+          {
+            "description": "email and calendar",
+            "provider": "aws",
+            "product": "Amazon WorkMail"
+          },
+          {
+            "description": "contact center",
+            "provider": "aws",
+            "product": "Amazon Connect"
+          },
+          {
+            "description": "customer multichannel communication",
+            "provider": "aws",
+            "product": "Amazon Pinpoint"
+          },
+          {
+            "description": "email service",
+            "provider": "aws",
+            "product": "Amazon Simple Email Service (SES)"
+          }
+        ]
+      },
+      {
+        "name": "smart assistant",
+        "items": [
+          {
+            "description": "intelligent assistant",
+            "provider": "aws",
+            "product": "Alexa for business"
+          }
+        ]
+      },
+      {
+        "name": "supply chain",
+        "items": [
+          {
+            "description": "supply chain application",
+            "provider": "aws",
+            "product": "AWS Supply Chain"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "cloud financial management",
+    "domains": [
+      {
+        "name": "cost management",
+        "items": [
+          {
+            "description": "cost monitoring",
+            "provider": "aws",
+            "product": "AWS Budgets"
+          },
+          {
+            "description": "cost data set",
+            "provider": "aws",
+            "product": "AWS Cost and Usage Reports"
+          },
+          {
+            "description": "cost analysis",
+            "provider": "aws",
+            "product": "AWS Cost Explorer"
+          },
+          {
+            "description": "cost analysis",
+            "provider": "aws",
+            "product": "AWS Cost Explorer"
+          },
+          {
+            "description": "instance cost",
+            "provider": "aws",
+            "product": "Reserved Instance Reporting"
+          },
+          {
+            "description": "cost savings",
+            "provider": "aws",
+            "product": "Savings plans"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "compute",
+    "domains": [
+      {
+        "name": "build",
+        "items": [
+          {
+            "description": "image build check",
+            "provider": "aws",
+            "product": "Amazon EC2 Image Builder"
+          },
+          {
+            "description": "Simplify your image building process with easy to use tool",
+            "provider": "azure",
+            "product": "Azure VM Image Builder"
+          }
+        ]
+      },
+      {
+        "name": "cloud infrastructure management",
+        "items": [
+          {
+            "description": "customer premises",
+            "provider": "aws",
+            "product": "AWS Outposts"
+          }
+        ]
+      },
+      {
+        "name": "compute engine",
+        "items": [
+          {
+            "description": "compute engine for web application",
+            "provider": "aws",
+            "product": "Amazon Elastic Compute Cloud (EC2)"
+          },
+          {
+            "description": "compute engine for web application",
+            "provider": "aws",
+            "product": "Amazon Lightsail"
+          },
+          {
+            "description": "Provision unused compute capacity at deep discounts to run interruptible workloads",
+            "provider": "azure",
+            "product": "Azure Spot Virtual Machines"
+          },
+          {
+            "description": "Run your VMware workloads natively on Azure",
+            "provider": "azure",
+            "product": "Azure VMware Solution"
+          },
+          {
+            "description": "Provision virtual machines for Ubuntu, Red Hat, and more",
+            "provider": "azure",
+            "product": "Linux Virtual Machines"
+          },
+          {
+            "description": "Manage and scale up to thousands of Linux and Windows VMs",
+            "provider": "azure",
+            "product": "Virtual Machine Scale Sets"
+          },
+          {
+            "description": "Provision Windows and Linux VMs in seconds",
+            "provider": "azure",
+            "product": "Virtual Machines"
+          },
+          {
+            "description": "A dedicated physical server to host your Azure VMs for Windows and Linux",
+            "provider": "azure",
+            "product": "Azure Dedicated Host"
+          },
+          {
+            "description": "isolated execution environment",
+            "provider": "aws",
+            "product": "AWS Nitro Enclaves"
+          }
+        ]
+      },
+      {
+        "name": "containers",
+        "items": [
+          {
+            "description": "container hosting",
+            "provider": "aws",
+            "product": "BottleRocket"
+          },
+          {
+            "description": "Launch containers with hypervisor isolation",
+            "provider": "azure",
+            "product": "Azure Container Instances"
+          }
+        ]
+      },
+      {
+        "name": "deployment",
+        "items": [
+          {
+            "description": "automatic integration and delivery pipeline",
+            "provider": "aws",
+            "product": "AWS App Runner"
+          },
+          {
+            "description": "web application deployment",
+            "provider": "aws",
+            "product": "AWS Elastic Beanstalk"
+          },
+          {
+            "description": "Build and deploy Spring Boot apps with a fully managed service from Microsoft and VMware",
+            "provider": "azure",
+            "product": "Azure Spring Cloud"
+          },
+          {
+            "description": "Deploy and scale containers on managed Kubernetes",
+            "provider": "azure",
+            "product": "Azure Kubernetes Service (AKS)"
+          },
+          {
+            "description": "Deploy and operate always on, scalable, distributed apps",
+            "provider": "azure",
+            "product": "Azure Service Fabric"
+          }
+        ]
+      },
+      {
+        "name": "high performance cluster (HPC)",
+        "items": [
+          {
+            "description": "high performance cluster",
+            "provider": "aws",
+            "product": "AWS Parallel Cluster"
+          },
+          {
+            "description": "Create, manage, operate, and optimize HPC and big compute clusters of any scale",
+            "provider": "azure",
+            "product": "Azure CycleCloud"
+          }
+        ]
+      },
+      {
+        "name": "jobs",
+        "items": [
+          {
+            "description": "job control",
+            "provider": "aws",
+            "product": "Nice EngineFrame"
+          },
+          {
+            "description": "batch jobs",
+            "provider": "aws",
+            "product": "AWS Batch"
+          },
+          {
+            "description": "Cloud scale job scheduling and compute management",
+            "provider": "azure",
+            "product": "Batch"
+          }
+        ]
+      },
+      {
+        "name": "quantum computing",
+        "items": [
+          {
+            "description": "Accelerate your development lifecycle by building your quantum solution once and running it on multiple systems with little to no change",
+            "provider": "azure",
+            "product": "Azure Quantum"
+          }
+        ]
+      },
+      {
+        "name": "remote display",
+        "items": [
+          {
+            "description": "remote display",
+            "provider": "aws",
+            "product": "NICE DCV"
+          },
+          {
+            "description": "Enable a secure, remote desktop experience from anywhere",
+            "provider": "azure",
+            "product": "Azure Virtual Desktop"
+          }
+        ]
+      },
+      {
+        "name": "repository",
+        "items": [
+          {
+            "description": "serverless application repository",
+            "provider": "aws",
+            "product": "AWS Serverless Application Repository"
+          }
+        ]
+      },
+      {
+        "name": "rightsizing",
+        "items": [
+          {
+            "description": "Create highly available, infinitely scalable cloud applications and APIs",
+            "provider": "azure",
+            "product": "Cloud Services"
+          }
+        ]
+      },
+      {
+        "name": "serverless functions",
+        "items": [
+          {
+            "description": "serverless function as a service",
+            "provider": "aws",
+            "product": "AWS Lambda"
+          },
+          {
+            "description": "Execute event driven serverless code with an end to end development experience",
+            "provider": "azure",
+            "product": "Azure Functions"
+          }
+        ]
+      },
+      {
+        "name": "simulation",
+        "items": [
+          {
+            "description": "real time large scale spatial simulations",
+            "provider": "aws",
+            "product": "AWS SimSpace Weaver"
+          }
+        ]
+      },
+      {
+        "name": "sql database",
+        "items": [
+          {
+            "description": "Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO)",
+            "provider": "azure",
+            "product": "SQL Server on Azure Virtual Machines"
+          }
+        ]
+      },
+      {
+        "name": "web and mobile application",
+        "items": [
+          {
+            "description": "Streamlined full stack development from source code to global high availability",
+            "provider": "azure",
+            "product": "Static Web Apps"
+          },
+          {
+            "description": "Quickly create powerful cloud apps for web and mobile",
+            "provider": "azure",
+            "product": "App Service"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "containers",
+    "domains": [
+      {
+        "name": "deployment",
+        "items": [
+          {
+            "description": "Deploy and operate always on, scalable, distributed apps",
+            "provider": "azure",
+            "product": "Azure Service Fabric"
+          }
+        ]
+      },
+      {
+        "name": "orchestration",
+        "items": [
+          {
+            "description": "orchestrator",
+            "provider": "aws",
+            "product": "Amazon Elastic Kubernetes Service (EKS)"
+          },
+          {
+            "description": "orchestrator",
+            "provider": "aws",
+            "product": "Amazon Elastic Container Service (ECS)"
+          },
+          {
+            "description": "Deploy and scale containers on managed Kubernetes",
+            "provider": "azure",
+            "product": "Azure Kubernetes Service (AKS)"
+          },
+          {
+            "description": "Deploy and scale containers on managed Red Hat OpenShift",
+            "provider": "azure",
+            "product": "Azure Red Hat OpenShift"
+          },
+          {
+            "description": "Launch containers with hypervisor isolation",
+            "provider": "azure",
+            "product": "Azure Container Instances"
+          }
+        ]
+      },
+      {
+        "name": "repository",
+        "items": [
+          {
+            "description": "registry",
+            "provider": "aws",
+            "product": "Amazon Elastic Container Registry (ECR)"
+          },
+          {
+            "description": "Build, store, secure, and replicate container images and artifacts",
+            "provider": "azure",
+            "product": "Azure Container Registry"
+          }
+        ]
+      },
+      {
+        "name": "serverless compute engine",
+        "items": [
+          {
+            "description": "serverless compute engine",
+            "provider": "aws",
+            "product": "AWS Fargate"
+          },
+          {
+            "description": "serverless compute engine",
+            "provider": "aws",
+            "product": "Red Hat OpenShift Service on AWS (ROSA)"
+          },
+          {
+            "description": "serverless compute engine",
+            "provider": "redhat",
+            "product": "Openshift"
+          },
+          {
+            "description": "Build and deploy modern apps and microservices using serverless containers",
+            "provider": "azure",
+            "product": "Azure Container Apps"
+          }
+        ]
+      },
+      {
+        "name": "web and mobile application",
+        "items": [
+          {
+            "description": "Run containerized web apps on Windows and Linux",
+            "provider": "azure",
+            "product": "Web App for containers"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "database",
+    "domains": [
+      {
+        "name": "caching system",
+        "items": [
+          {
+            "description": "redis compatible in memory database",
+            "provider": "aws",
+            "product": "Amazon MemoryDB for Redis"
+          },
+          {
+            "description": "redis compatible in memory database",
+            "provider": "aws",
+            "product": "Amazon ElastiCache"
+          },
+          {
+            "description": "Accelerate apps with high throughput, low latency data caching",
+            "provider": "azure",
+            "product": "Azure Cache for Redis"
+          }
+        ]
+      },
+      {
+        "name": "data integration",
+        "items": [
+          {
+            "description": "Hybrid data integration at enterprise scale, made easy",
+            "provider": "azure",
+            "product": "Azure Data Factory"
+          }
+        ]
+      },
+      {
+        "name": "graph analytics",
+        "items": [
+          {
+            "description": "graph analytics and serverless database",
+            "provider": "aws",
+            "product": "Amazon Neptune"
+          }
+        ]
+      },
+      {
+        "name": "migration service",
+        "items": [
+          {
+            "description": "database migration service",
+            "provider": "aws",
+            "product": "AWS Database Migration Service (AWS DMS)"
+          },
+          {
+            "description": "Simplify on premises database migration to the cloud",
+            "provider": "azure",
+            "product": "Azure Database Migration Service"
+          }
+        ]
+      },
+      {
+        "name": "newsql database",
+        "items": [
+          {
+            "description": "database service for OLAP and OLTP",
+            "provider": "N/A",
+            "product": "N/A"
+          }
+        ]
+      },
+      {
+        "name": "nosql database",
+        "items": [
+          {
+            "description": "serverless key value database",
+            "provider": "aws",
+            "product": "Amazon DynamoDB"
+          },
+          {
+            "description": "serverless key value database",
+            "provider": "opensource",
+            "product": "MongoDB"
+          },
+          {
+            "description": "Build or modernize scalable, high performance apps",
+            "provider": "azure",
+            "product": "Azure Cosmos DB"
+          },
+          {
+            "description": "NoSQL key value store using semi structured datasets",
+            "provider": "azure",
+            "product": "Table Storage"
+          }
+        ]
+      },
+      {
+        "name": "sql database (RDBMS)",
+        "items": [
+          {
+            "description": "serverless relational database",
+            "provider": "aws",
+            "product": "Amazon Aurora"
+          },
+          {
+            "description": "relational database",
+            "provider": "aws",
+            "product": "Amazon Relational Database Service (Amazon RDS)"
+          },
+          {
+            "description": "relational database",
+            "provider": "opensource",
+            "product": "MySQL"
+          },
+          {
+            "description": "relational database",
+            "provider": "opensource",
+            "product": "MariaDB"
+          },
+          {
+            "description": "Build or modernize scalable, high performance apps",
+            "provider": "azure",
+            "product": "Azure Cosmos DB"
+          },
+          {
+            "description": "Deploy applications to the cloud with enterprise ready, fully managed community MariaDB",
+            "provider": "azure",
+            "product": "Azure Database for MariaDB"
+          },
+          {
+            "description": "Fully managed, scalable MySQL Database",
+            "provider": "azure",
+            "product": "Azure Database for MySQL"
+          },
+          {
+            "description": "Fully managed, intelligent, and scalable PostgreSQL",
+            "provider": "azure",
+            "product": "Azure Database for PostgreSQL"
+          },
+          {
+            "description": "Modern SQL family for migration and app modernization",
+            "provider": "azure",
+            "product": "Azure SQL"
+          },
+          {
+            "description": "Managed, intelligent SQL in the cloud",
+            "provider": "azure",
+            "product": "Azure SQL Database"
+          },
+          {
+            "description": "Consume Services privately on Azure Platform",
+            "provider": "azure",
+            "product": "Azure SQL Edge"
+          },
+          {
+            "description": "Managed, always up to date SQL instance in the cloud",
+            "provider": "azure",
+            "product": "Azure SQL Managed Instance"
+          },
+          {
+            "description": "Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO)",
+            "provider": "azure",
+            "product": "SQL Server on Azure Virtual Machines"
+          }
+        ]
+      },
+      {
+        "name": "time series database",
+        "items": [
+          {
+            "description": "serverless time series database service",
+            "provider": "aws",
+            "product": "Amazon Timestream"
+          }
+        ]
+      },
+      {
+        "name": "vector database",
+        "items": [
+          {
+            "description": "Build or modernize scalable, high performance apps",
+            "provider": "azure",
+            "product": "Azure Cosmos DB"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "developer tools",
+    "domains": [
+      {
+        "name": "build",
+        "items": [
+          {
+            "description": "build",
+            "provider": "aws",
+            "product": "AWS CodeBuild"
+          }
+        ]
+      },
+      {
+        "name": "centralized configuration",
+        "items": [
+          {
+            "description": "Fast, scalable parameter storage for app configuration",
+            "provider": "azure",
+            "product": "App Configuration"
+          }
+        ]
+      },
+      {
+        "name": "deployment",
+        "items": [
+          {
+            "description": "source control",
+            "provider": "aws",
+            "product": "AWS CodeCommit"
+          },
+          {
+            "description": "resilience testing tool",
+            "provider": "aws",
+            "product": "AWS Fault Injection Service"
+          }
+        ]
+      },
+      {
+        "name": "integrated development environment (IDE)",
+        "items": [
+          {
+            "description": "integrated development environment",
+            "provider": "aws",
+            "product": "AWS Cloud9"
+          },
+          {
+            "description": "integrated development environment",
+            "provider": "microsoft",
+            "product": "Visual Studio"
+          },
+          {
+            "description": "A powerful, lightweight code editor for cloud development",
+            "provider": "azure",
+            "product": "Visual Studio Code"
+          }
+        ]
+      },
+      {
+        "name": "monitoring",
+        "items": [
+          {
+            "description": "application analysis, trace and debug",
+            "provider": "aws",
+            "product": "AWS X Ray"
+          }
+        ]
+      },
+      {
+        "name": "shell",
+        "items": [
+          {
+            "description": "browser shell",
+            "provider": "aws",
+            "product": "AWS CloudShell"
+          }
+        ]
+      },
+      {
+        "name": "testing",
+        "items": [
+          {
+            "description": "Set up labs for classrooms, trials, development and testing, and other scenarios",
+            "provider": "azure",
+            "product": "Azure Lab Services"
+          },
+          {
+            "description": "Optimize app performance with high scale load testing",
+            "provider": "azure",
+            "product": "Azure Load Testing"
+          }
+        ]
+      },
+      {
+        "name": "web and mobile application",
+        "items": [
+          {
+            "description": "open java development kit distribution",
+            "provider": "aws",
+            "product": "Amazon Coretto"
+          },
+          {
+            "description": "visual application design and build",
+            "provider": "aws",
+            "product": "AWS Application Composer"
+          },
+          {
+            "description": "Get the SDKs and command line tools you need",
+            "provider": "azure",
+            "product": "SDKs"
+          },
+          {
+            "description": "Powerful and flexible environment to develop apps in the cloud",
+            "provider": "azure",
+            "product": "Visual Studio"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "devops",
+    "domains": [
+      {
+        "name": "collaborative work",
+        "items": [
+          {
+            "description": "Plan, track, and discuss work across your teams",
+            "provider": "azure",
+            "product": "Azure Boards"
+          },
+          {
+            "description": "Services for teams to share code, track work, and ship software",
+            "provider": "azure",
+            "product": "Azure DevOps"
+          }
+        ]
+      },
+      {
+        "name": "deployment",
+        "items": [
+          {
+            "description": "Continuously build, test, and deploy to any platform and cloud",
+            "provider": "azure",
+            "product": "Azure Pipelines"
+          },
+          {
+            "description": "Get unlimited, cloud hosted private Git repos for your project",
+            "provider": "azure",
+            "product": "Azure Repos"
+          },
+          {
+            "description": "Test and ship confidently with an exploratory test toolkit",
+            "provider": "azure",
+            "product": "Azure Test Plans"
+          },
+          {
+            "description": "Use your favorite DevOps tools with Azure",
+            "provider": "azure",
+            "product": "DevOps tool integrations"
+          },
+          {
+            "description": "application deployment",
+            "provider": "aws",
+            "product": "AWS CodeDeploy"
+          },
+          {
+            "description": "ci/cd pipeline",
+            "provider": "aws",
+            "product": "AWS CodePipeline"
+          },
+          {
+            "description": "ci/cd pipeline",
+            "provider": "aws",
+            "product": "AWS CodeCatalyst"
+          },
+          {
+            "description": "command line interface",
+            "provider": "aws",
+            "product": "AWS Command Line Interface"
+          },
+          {
+            "description": "infrastructure as code",
+            "provider": "aws",
+            "product": "AWS Cloud Development Kit (AWS CDK)"
+          },
+          {
+            "description": "infrastructure as code",
+            "provider": "aws",
+            "product": "AWS CloudFormation"
+          },
+          {
+            "description": "artifact repository",
+            "provider": "aws",
+            "product": "AWS CodeArtifact"
+          },
+          {
+            "description": "cloud control api",
+            "provider": "aws",
+            "product": "AWS Cloud Control API"
+          }
+        ]
+      },
+      {
+        "name": "monitoring",
+        "items": [
+          {
+            "description": "Full observability into your applications, infrastructure, and network",
+            "provider": "azure",
+            "product": "Azure Monitor"
+          }
+        ]
+      },
+      {
+        "name": "packaging",
+        "items": [
+          {
+            "description": "Create, host, and share packages with your team",
+            "provider": "azure",
+            "product": "Azure Artifacts"
+          }
+        ]
+      },
+      {
+        "name": "testing",
+        "items": [
+          {
+            "description": "Optimize app performance with high scale load testing",
+            "provider": "azure",
+            "product": "Azure Load Testingï¿½PREVIEW"
+          },
+          {
+            "description": "Quickly create environments using reusable templates and artifacts",
+            "provider": "azure",
+            "product": "Azure DevTest Labs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "end user computing",
+    "domains": [
+      {
+        "name": "application streaming",
+        "items": [
+          {
+            "description": "end user computing",
+            "provider": "aws",
+            "product": "Amazon AppStream"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "front end web and mobile",
+    "domains": [
+      {
+        "name": "map service",
+        "items": [
+          {
+            "description": "location functionality, maps, points of interest, geocoding, routing, tracking, geofencing",
+            "provider": "aws",
+            "product": "Amazon location service"
+          }
+        ]
+      },
+      {
+        "name": "web and mobile application",
+        "items": [
+          {
+            "description": "web and mobile application full stack development",
+            "provider": "aws",
+            "product": "AWS Amplify"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "games",
+    "domains": [
+      {
+        "name": "game engine",
+        "items": [
+          {
+            "description": "game engine integration toolkit",
+            "provider": "aws",
+            "product": "AWS GameKit"
+          },
+          {
+            "description": "game server",
+            "provider": "aws",
+            "product": "Amazon GameLift"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "hybrid multicloud",
+    "domains": [
+      {
+        "name": "compute engine",
+        "items": [
+          {
+            "description": "Azure Stack Hub is sold as an integrated hardware system, with software pre installed on validated hardware",
+            "provider": "azure",
+            "product": "Azure Stack Hub"
+          }
+        ]
+      },
+      {
+        "name": "datacenter solution",
+        "items": [
+          {
+            "description": "A complete, rugged datacenter solution",
+            "provider": "azure",
+            "product": "Azure Modular Datacenter"
+          }
+        ]
+      },
+      {
+        "name": "deployment",
+        "items": [
+          {
+            "description": "Secure, develop, and operate infrastructure, apps, and Azure services anywhere",
+            "provider": "azure",
+            "product": "Azure Arc"
+          }
+        ]
+      },
+      {
+        "name": "edge computing",
+        "items": [
+          {
+            "description": "Run your production workloads anywhere on hybrid, familiar hyperconverged infrastructure",
+            "provider": "azure",
+            "product": "Azure Stack HCI"
+          },
+          {
+            "description": "An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge",
+            "provider": "azure",
+            "product": "Azure Stack Edge"
+          }
+        ]
+      },
+      {
+        "name": "sql database",
+        "items": [
+          {
+            "description": "Fully managed, intelligent, and scalable PostgreSQL",
+            "provider": "azure",
+            "product": "Azure Database for PostgreSQL"
+          },
+          {
+            "description": "Managed, intelligent SQL in the cloud",
+            "provider": "azure",
+            "product": "Azure SQL Database"
+          },
+          {
+            "description": "Consume Services privately on Azure Platform",
+            "provider": "azure",
+            "product": "Azure SQL Edge"
+          }
+        ]
+      },
+      {
+        "name": "virtual private network (VPN)",
+        "items": [
+          {
+            "description": "Experience a fast, reliable, and private connection to Azure",
+            "provider": "azure",
+            "product": "Azure ExpressRoute"
+          }
+        ]
+      },
+      {
+        "name": "web and mobile application",
+        "items": [
+          {
+            "description": "Build and run innovative hybrid apps across cloud boundaries",
+            "provider": "azure",
+            "product": "Azure Stack"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "integration",
+    "domains": [
+      {
+        "name": "cloud infrastructure management",
+        "items": [
+          {
+            "description": "Connect across private and public cloud environments",
+            "provider": "azure",
+            "product": "Service Bus"
+          }
+        ]
+      },
+      {
+        "name": "data analysis",
+        "items": [
+          {
+            "description": "A unified solution that helps protect and combine health data in the cloud and generates healthcare insights with analytics",
+            "provider": "azure",
+            "product": "Azure Healthcare APIs"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "internet of things",
+    "domains": [
+      {
+        "name": "api management",
+        "items": [
+          {
+            "description": "Publish APIs to developers, partners, and employees securely and at scale",
+            "provider": "azure",
+            "product": "API Management"
+          }
+        ]
+      },
+      {
+        "name": "data analysis",
+        "items": [
+          {
+            "description": "iot data analysis",
+            "provider": "aws",
+            "product": "AWS IoT analytics"
+          }
+        ]
+      },
+      {
+        "name": "data analytics platform",
+        "items": [
+          {
+            "description": "Real time analytics on fast moving streaming data",
+            "provider": "azure",
+            "product": "Azure Stream Analytics"
+          }
+        ]
+      },
+      {
+        "name": "data security",
+        "items": [
+          {
+            "description": "Automate the access and use of data across clouds",
+            "provider": "azure",
+            "product": "Logic Apps"
+          }
+        ]
+      },
+      {
+        "name": "data transfer",
+        "items": [
+          {
+            "description": "vehicle data collect transform and transfer",
+            "provider": "aws",
+            "product": "AWS IoT FleetWise"
+          }
+        ]
+      },
+      {
+        "name": "data visualization",
+        "items": [
+          {
+            "description": "Visualize IoT data in real time",
+            "provider": "azure",
+            "product": "Azure Time Series Insights"
+          }
+        ]
+      },
+      {
+        "name": "device communication",
+        "items": [
+          {
+            "description": "iot device connect and message transfer ",
+            "provider": "aws",
+            "product": "AWS IoT Core"
+          },
+          {
+            "description": "connectivity module",
+            "provider": "aws",
+            "product": "AWS IoT ExpressLink"
+          },
+          {
+            "description": "Connect, monitor, and manage billions of IoT assets",
+            "provider": "azure",
+            "product": "Azure IoT Hub"
+          }
+        ]
+      },
+      {
+        "name": "device management",
+        "items": [
+          {
+            "description": "iot device management",
+            "provider": "aws",
+            "product": "AWS IoT Device Management"
+          },
+          {
+            "description": "iot device fleet monitoring and actions",
+            "provider": "aws",
+            "product": "AWS IoT Events"
+          },
+          {
+            "description": "device software build and management",
+            "provider": "aws",
+            "product": "AWS IoT GreenGrass"
+          },
+          {
+            "description": "build digital twins",
+            "provider": "aws",
+            "product": "AWS IoT TwinMaker"
+          },
+          {
+            "description": "Use IoT spatial intelligence to create models of physical environments",
+            "provider": "azure",
+            "product": "Azure Digital Twins"
+          },
+          {
+            "description": "Build IoT solutions on a hosted platform",
+            "provider": "azure",
+            "product": "Azure IoT Central"
+          },
+          {
+            "description": "Extend cloud intelligence and analytics to edge devices",
+            "provider": "azure",
+            "product": "Azure IoT Edge"
+          }
+        ]
+      },
+      {
+        "name": "device security",
+        "items": [
+          {
+            "description": "iot device fleet security",
+            "provider": "aws",
+            "product": "AWS IoT Device Defender"
+          },
+          {
+            "description": "Securely connect MCU powered devices from the silicon to the cloud",
+            "provider": "azure",
+            "product": "Azure Sphere"
+          },
+          {
+            "description": "Continuous asset discovery, vulnerability management, and threat detection for your Internet of things (IoT) and operational technology (OT) devices",
+            "provider": "azure",
+            "product": "Microsoft Defender for IoT"
+          }
+        ]
+      },
+      {
+        "name": "edge computing",
+        "items": [
+          {
+            "description": "Accelerate edge intelligence from silicon to service",
+            "provider": "azure",
+            "product": "Azure Perception"
+          }
+        ]
+      },
+      {
+        "name": "events management",
+        "items": [
+          {
+            "description": "Reliable event delivery at massive scale",
+            "provider": "azure",
+            "product": "Event Grid"
+          }
+        ]
+      },
+      {
+        "name": "interoperability",
+        "items": [
+          {
+            "description": "robot interoperability data collect and standardization",
+            "provider": "aws",
+            "product": "AWS IoT Robborunner"
+          }
+        ]
+      },
+      {
+        "name": "machine learning",
+        "items": [
+          {
+            "description": "An enterprise grade service for the end to end machine learning lifecycle",
+            "provider": "azure",
+            "product": "Azure Machine Learning"
+          }
+        ]
+      },
+      {
+        "name": "map service",
+        "items": [
+          {
+            "description": "Create location aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure",
+            "provider": "azure",
+            "product": "Azure Maps"
+          }
+        ]
+      },
+      {
+        "name": "monitoring",
+        "items": [
+          {
+            "description": "collect store monitor data from industrial equipment",
+            "provider": "aws",
+            "product": "AWS IoT SiteWise"
+          }
+        ]
+      },
+      {
+        "name": "notification service",
+        "items": [
+          {
+            "description": "Send push notifications to any platform from any back end",
+            "provider": "azure",
+            "product": "Notification Hubs"
+          }
+        ]
+      },
+      {
+        "name": "operating system",
+        "items": [
+          {
+            "description": "real time operating system for microcontrollers",
+            "provider": "opensource",
+            "product": "Free RTOS"
+          },
+          {
+            "description": "Making embedded IoT development and connectivity easy",
+            "provider": "azure",
+            "product": "Azure RTOS"
+          }
+        ]
+      },
+      {
+        "name": "sensors",
+        "items": [
+          {
+            "description": "Build for mixed reality using AI sensors",
+            "provider": "azure",
+            "product": "Kinect DK"
+          }
+        ]
+      },
+      {
+        "name": "serverless functions",
+        "items": [
+          {
+            "description": "Execute event driven serverless code with an end to end development experience",
+            "provider": "azure",
+            "product": "Azure Functions"
+          }
+        ]
+      },
+      {
+        "name": "sql database",
+        "items": [
+          {
+            "description": "Consume Services privately on Azure Platform",
+            "provider": "azure",
+            "product": "Azure SQL Edge"
+          }
+        ]
+      },
+      {
+        "name": "wifi",
+        "items": [
+          {
+            "description": "wifi button device",
+            "provider": "aws",
+            "product": "AWS IoT Button"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "management and governance",
+    "domains": [
+      {
+        "name": "audit",
+        "items": [
+          {
+            "description": "asset audit and evaluate resources",
+            "provider": "aws",
+            "product": "AWS Config"
+          },
+          {
+            "description": "governance, compliance and audit of account",
+            "provider": "aws",
+            "product": "AWS CloudTrail"
+          },
+          {
+            "description": "infrastructure inspection for finance, availability and performance recommendations",
+            "provider": "aws",
+            "product": "AWS Trusted Advisor"
+          },
+          {
+            "description": "cloud architecture audit",
+            "provider": "aws",
+            "product": "AWS Well Architected Tool"
+          },
+          {
+            "description": "Your personalized Azure best practices recommendation engine",
+            "provider": "azure",
+            "product": "Azure Advisor"
+          }
+        ]
+      },
+      {
+        "name": "backup service",
+        "items": [
+          {
+            "description": "backup and restore",
+            "provider": "aws",
+            "product": "AWS Blackint Agent"
+          },
+          {
+            "description": "Simplify data protection with built in backup management at scale",
+            "provider": "azure",
+            "product": "Azure Backup"
+          }
+        ]
+      },
+      {
+        "name": "centralized configuration",
+        "items": [
+          {
+            "description": "centralized management of configuration data",
+            "provider": "aws",
+            "product": "AWS AppConfig"
+          }
+        ]
+      },
+      {
+        "name": "cloud infrastructure management",
+        "items": [
+          {
+            "description": "control of infrastructure resources",
+            "provider": "aws",
+            "product": "AWS Systems Manager"
+          },
+          {
+            "description": "setup of cloud multi account environment (landing zone)",
+            "provider": "aws",
+            "product": "AWS Control Tower"
+          },
+          {
+            "description": "organization and account management",
+            "provider": "aws",
+            "product": "AWS Organizations"
+          },
+          {
+            "description": "it service management",
+            "provider": "aws",
+            "product": "AWS Service Management Connector (SMC)"
+          },
+          {
+            "description": "Simplify cloud management with process automation",
+            "provider": "azure",
+            "product": "Automation"
+          },
+          {
+            "description": "Enabling quick, repeatable creation of governed environments",
+            "provider": "azure",
+            "product": "Azure Blueprint"
+          },
+          {
+            "description": "Empowering service providers to manage customers at scale and with precision",
+            "provider": "azure",
+            "product": "Azure Lighthouse"
+          },
+          {
+            "description": "Simplify management of cloud offerings",
+            "provider": "azure",
+            "product": "Azure Managed Applications"
+          },
+          {
+            "description": "Implement corporate governance and standards at scale",
+            "provider": "azure",
+            "product": "Azure Policy"
+          },
+          {
+            "description": "Simplify how you manage your app resources",
+            "provider": "azure",
+            "product": "Azure Resource Manager"
+          },
+          {
+            "description": "Simplify and optimize IT management with automated operations",
+            "provider": "azure",
+            "product": "Azure Automanage"
+          },
+          {
+            "description": "Simplify how you move multiple resources between Azure regions",
+            "provider": "azure",
+            "product": "Azure Resource Mover"
+          },
+          {
+            "description": "A unified data governance solution that maximizes the business value of your data",
+            "provider": "azure",
+            "product": "Azure Purview"
+          }
+        ]
+      },
+      {
+        "name": "console",
+        "items": [
+          {
+            "description": "console",
+            "provider": "aws",
+            "product": "AWS console Application"
+          },
+          {
+            "description": "console",
+            "provider": "aws",
+            "product": "AWS Console Mobile Application"
+          },
+          {
+            "description": "Build, manage, and monitor all Azure products in a single, unified console",
+            "provider": "azure",
+            "product": "Microsoft Azure portal"
+          }
+        ]
+      },
+      {
+        "name": "cost management",
+        "items": [
+          {
+            "description": "Manage your cloud spending with confidence",
+            "provider": "azure",
+            "product": "Azure Cost Management and Billing"
+          }
+        ]
+      },
+      {
+        "name": "data visualization",
+        "items": [
+          {
+            "description": "data visualization",
+            "provider": "aws",
+            "product": "AWS Managed Grafana"
+          }
+        ]
+      },
+      {
+        "name": "deployment",
+        "items": [
+          {
+            "description": "share, organize, and govern IaC templates",
+            "provider": "aws",
+            "product": "AWS Service Catalog"
+          },
+          {
+            "description": "deployment workflow tool",
+            "provider": "aws",
+            "product": "AWS Proton"
+          },
+          {
+            "description": "configuring and deploying third party application",
+            "provider": "aws",
+            "product": "AWS Launch Wizard"
+          },
+          {
+            "description": "Deliver infrastructure as code for all your Azure resources using Resource Manager",
+            "provider": "azure",
+            "product": "Azure Resource Manager templates"
+          }
+        ]
+      },
+      {
+        "name": "disaster recovery",
+        "items": [
+          {
+            "description": "Keep your business running with built in disaster recovery service",
+            "provider": "azure",
+            "product": "Azure Site Recovery"
+          }
+        ]
+      },
+      {
+        "name": "events management",
+        "items": [
+          {
+            "description": "cloud resources events and changes management",
+            "provider": "aws",
+            "product": "AWS Health Dashboard"
+          }
+        ]
+      },
+      {
+        "name": "license manager",
+        "items": [
+          {
+            "description": "software license manager",
+            "provider": "aws",
+            "product": "AWS License Manager"
+          }
+        ]
+      },
+      {
+        "name": "monitoring",
+        "items": [
+          {
+            "description": "monitoring, logs and alerts",
+            "provider": "aws",
+            "product": "Amazon CloudWatch"
+          },
+          {
+            "description": "monitoring",
+            "provider": "opensource",
+            "product": "prometheus"
+          },
+          {
+            "description": "Full observability into your applications, infrastructure, and network",
+            "provider": "azure",
+            "product": "Azure Monitor"
+          },
+          {
+            "description": "Personalized guidance and support for when issues in Azure services affect you",
+            "provider": "azure",
+            "product": "Azure Service Health"
+          },
+          {
+            "description": "Network performance monitoring and diagnostics solution",
+            "provider": "azure",
+            "product": "Network Watcher"
+          }
+        ]
+      },
+      {
+        "name": "rightsizing",
+        "items": [
+          {
+            "description": "auto scaling",
+            "provider": "aws",
+            "product": "AWS Auto scaling"
+          },
+          {
+            "description": "auto scaling",
+            "provider": "aws",
+            "product": "AWS Application Auto Scaling"
+          },
+          {
+            "description": "workload rightsizing",
+            "provider": "aws",
+            "product": "AWS Compute Optimizer"
+          }
+        ]
+      },
+      {
+        "name": "shell",
+        "items": [
+          {
+            "description": "Streamline Azure administration with a browser based shell",
+            "provider": "azure",
+            "product": "Cloud Shell"
+          }
+        ]
+      },
+      {
+        "name": "smart assistant",
+        "items": [
+          {
+            "description": "chatbot",
+            "provider": "aws",
+            "product": "AWS chatbot"
+          }
+        ]
+      },
+      {
+        "name": "telecom network",
+        "items": [
+          {
+            "description": "telecom network build",
+            "provider": "aws",
+            "product": "AWS Telco Network Builder"
+          }
+        ]
+      },
+      {
+        "name": "telemetry (OLTP)",
+        "items": [
+          {
+            "description": "telemetry data",
+            "provider": "opensource",
+            "product": "OpenTelemetry"
+          }
+        ]
+      },
+      {
+        "name": "traffic management",
+        "items": [
+          {
+            "description": "Route incoming traffic for high performance and availability",
+            "provider": "azure",
+            "product": "Traffic Manager"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "media services",
+    "domains": [
+      {
+        "name": "3d content",
+        "items": [
+          {
+            "description": "particle simulator",
+            "provider": "aws",
+            "product": "AWS Thinkbox Stoke"
+          }
+        ]
+      },
+      {
+        "name": "caching system",
+        "items": [
+          {
+            "description": "compressed animated geometry files",
+            "provider": "aws",
+            "product": "AWS Thinkbox XMesh"
+          }
+        ]
+      },
+      {
+        "name": "content delivery  network (CDN)",
+        "items": [
+          {
+            "description": "Fast, reliable content delivery network with global reach",
+            "provider": "azure",
+            "product": "Content Delivery Network"
+          }
+        ]
+      },
+      {
+        "name": "content generation",
+        "items": [
+          {
+            "description": "video ad insertion",
+            "provider": "aws",
+            "product": "AWS Elemental MediaTailor"
+          }
+        ]
+      },
+      {
+        "name": "data security",
+        "items": [
+          {
+            "description": "Securely deliver content using AES, PlayReady, Widevine, and Fairplay",
+            "provider": "azure",
+            "product": "Content Protection"
+          }
+        ]
+      },
+      {
+        "name": "data storage",
+        "items": [
+          {
+            "description": "video storage",
+            "provider": "aws",
+            "product": "AWS Elemental MediaStore"
+          }
+        ]
+      },
+      {
+        "name": "live streaming",
+        "items": [
+          {
+            "description": "broadcast live video processing",
+            "provider": "aws",
+            "product": "AWS Elemental MediaLive"
+          },
+          {
+            "description": "broadcast live video processing",
+            "provider": "aws",
+            "product": "AWS Elemental Conductor"
+          },
+          {
+            "description": "broadcast live video processing",
+            "provider": "aws",
+            "product": "AWS Elemental Delta"
+          },
+          {
+            "description": "broadcast live video processing",
+            "provider": "aws",
+            "product": "AWS Elemental Live"
+          },
+          {
+            "description": "broadcast live video processing",
+            "provider": "aws",
+            "product": "AWS Elemental Server"
+          },
+          {
+            "description": "video live streaming low latency",
+            "provider": "aws",
+            "product": "AWS Interactive Video service"
+          },
+          {
+            "description": "Deliver content to virtually all devices with ability to scale",
+            "provider": "azure",
+            "product": "Live and On Demand Streaming"
+          }
+        ]
+      },
+      {
+        "name": "management software",
+        "items": [
+          {
+            "description": "compute management software for render farms",
+            "provider": "aws",
+            "product": "AWS Thinkbox Deadline"
+          },
+          {
+            "description": "compute management software for render farms",
+            "provider": "aws",
+            "product": "AWS Deadline Cloud"
+          }
+        ]
+      },
+      {
+        "name": "media processing",
+        "items": [
+          {
+            "description": "Studio grade encoding at cloud scale",
+            "provider": "azure",
+            "product": "Encoding"
+          },
+          {
+            "description": "A single player for all your playback needs",
+            "provider": "azure",
+            "product": "Azure Media Player"
+          },
+          {
+            "description": "video transcoder",
+            "provider": "aws",
+            "product": "Amazon Elastic Transcoder"
+          },
+          {
+            "description": "video transcoder",
+            "provider": "aws",
+            "product": "AWS Elemental Video Convert"
+          },
+          {
+            "description": "video transcoder",
+            "provider": "aws",
+            "product": "AWS Elemental MediaConvert"
+          },
+          {
+            "description": "video transport",
+            "provider": "aws",
+            "product": "AWS Elemental MediaConnect"
+          },
+          {
+            "description": "video processing and delivery",
+            "provider": "aws",
+            "product": "AWS Elemental Appliances & Software"
+          },
+          {
+            "description": "video source connection",
+            "provider": "aws",
+            "product": "AWS Elemental Link"
+          },
+          {
+            "description": "Encode, store, and stream video and audio at scale",
+            "provider": "azure",
+            "product": "Media Services"
+          }
+        ]
+      },
+      {
+        "name": "packaging",
+        "items": [
+          {
+            "description": "package, distribute video",
+            "provider": "aws",
+            "product": "AWS Elemental MediaPackage"
+          }
+        ]
+      },
+      {
+        "name": "particle rendering",
+        "items": [
+          {
+            "description": "process and render particles",
+            "provider": "aws",
+            "product": "AWS Thinkbox Krakatoa"
+          },
+          {
+            "description": "process and render particles",
+            "provider": "aws",
+            "product": "AWS Thinkbox Frost"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "migration and modernization",
+    "domains": [
+      {
+        "name": "cost management",
+        "items": [
+          {
+            "description": "Manage your cloud spending with confidence",
+            "provider": "azure",
+            "product": "Azure Cost Management and Billing"
+          }
+        ]
+      },
+      {
+        "name": "data synchro",
+        "items": [
+          {
+            "description": "data synchronization",
+            "provider": "aws",
+            "product": "AWS DataSync"
+          }
+        ]
+      },
+      {
+        "name": "data transfer",
+        "items": [
+          {
+            "description": "secure file transfer",
+            "provider": "aws",
+            "product": "AWS Transfer Family"
+          },
+          {
+            "description": "Appliances and solutions for data transfer to Azure and edge compute",
+            "provider": "azure",
+            "product": "Data Box"
+          }
+        ]
+      },
+      {
+        "name": "disaster recovery",
+        "items": [
+          {
+            "description": "Keep your business running with built in disaster recovery service",
+            "provider": "azure",
+            "product": "Azure Site Recovery"
+          }
+        ]
+      },
+      {
+        "name": "discovery service",
+        "items": [
+          {
+            "description": "collects usage, behavior, and configuration data",
+            "provider": "aws",
+            "product": "AWS Application Discovery Service"
+          }
+        ]
+      },
+      {
+        "name": "migration service",
+        "items": [
+          {
+            "description": "Simplify on premises database migration to the cloud",
+            "provider": "azure",
+            "product": "Azure Database Migration Service"
+          },
+          {
+            "description": "migration of on premises mainframe",
+            "provider": "aws",
+            "product": "AWS Mainframe Modernization"
+          },
+          {
+            "description": "migration hub",
+            "provider": "aws",
+            "product": "AWS Migration Hub"
+          },
+          {
+            "description": "application migration service",
+            "provider": "aws",
+            "product": "AWS Application Migration Service"
+          },
+          {
+            "description": "migration tool",
+            "provider": "aws",
+            "product": "AWS Migration Evaluator"
+          },
+          {
+            "description": "Discover, assess, right size, and migrate your on premises virtual machines (VMs) to Azure",
+            "provider": "azure",
+            "product": "Azure Migrate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "mixed reality",
+    "domains": [
+      {
+        "name": "3d content",
+        "items": [
+          {
+            "description": "Render high quality, interactive 3D content with real time streaming",
+            "provider": "azure",
+            "product": "Remote Rendering"
+          },
+          {
+            "description": "Automatically align and anchor 3D content to objects in the physical world",
+            "provider": "azure",
+            "product": "Object Anchorsï¿½PREVIEW"
+          }
+        ]
+      },
+      {
+        "name": "reality",
+        "items": [
+          {
+            "description": "Create multi user, spatially aware mixed reality experiences",
+            "provider": "azure",
+            "product": "Spatial Anchors"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "mobile",
+    "domains": [
+      {
+        "name": "api management",
+        "items": [
+          {
+            "description": "Publish APIs to developers, partners, and employees securely and at scale",
+            "provider": "azure",
+            "product": "API Management"
+          }
+        ]
+      },
+      {
+        "name": "build",
+        "items": [
+          {
+            "description": "Build, test, release, and monitor your mobile and desktop apps",
+            "provider": "azure",
+            "product": "Visual Studio App Center"
+          }
+        ]
+      },
+      {
+        "name": "centralized configuration",
+        "items": [
+          {
+            "description": "Fast, scalable parameter storage for app configuration",
+            "provider": "azure",
+            "product": "App Configuration"
+          }
+        ]
+      },
+      {
+        "name": "enterprise search",
+        "items": [
+          {
+            "description": "Enterprise scale search for app development",
+            "provider": "azure",
+            "product": "Azure Cognitive Search"
+          }
+        ]
+      },
+      {
+        "name": "map service",
+        "items": [
+          {
+            "description": "Create location aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure",
+            "provider": "azure",
+            "product": "Azure Maps"
+          }
+        ]
+      },
+      {
+        "name": "notification service",
+        "items": [
+          {
+            "description": "Add cognitive capabilities to apps with APIs and AI services",
+            "provider": "azure",
+            "product": "Azure Cognitive Services"
+          },
+          {
+            "description": "Send push notifications to any platform from any back end",
+            "provider": "azure",
+            "product": "Notification Hubs"
+          }
+        ]
+      },
+      {
+        "name": "reality",
+        "items": [
+          {
+            "description": "Create multi user, spatially aware mixed reality experiences",
+            "provider": "azure",
+            "product": "Spatial Anchors"
+          }
+        ]
+      },
+      {
+        "name": "web and mobile application",
+        "items": [
+          {
+            "description": "Quickly create powerful cloud apps for web and mobile",
+            "provider": "azure",
+            "product": "App Service"
+          },
+          {
+            "description": "Create cloud powered mobile apps faster",
+            "provider": "azure",
+            "product": "Xamarin"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "networking and content delivery",
+    "domains": [
+      {
+        "name": "access security",
+        "items": [
+          {
+            "description": "secure access to corporate applications",
+            "provider": "aws",
+            "product": "AWS Verified Access"
+          },
+          {
+            "description": "Private and fully managed RDP and SSH access to your virtual machines",
+            "provider": "azure",
+            "product": "Azure Bastion"
+          }
+        ]
+      },
+      {
+        "name": "api management",
+        "items": [
+          {
+            "description": "api gateway",
+            "provider": "aws",
+            "product": "Amazon API Gateway"
+          }
+        ]
+      },
+      {
+        "name": "cellular network",
+        "items": [
+          {
+            "description": "cellular network",
+            "provider": "aws",
+            "product": "AWS Private 5G"
+          },
+          {
+            "description": "Extend Azure management for deploying 5G and SD WAN network functions on edge devices",
+            "provider": "azure",
+            "product": "Azure Network Function Manager"
+          },
+          {
+            "description": "Rapidly deploy and manage private 5G networks at the enterprise edge",
+            "provider": "azure",
+            "product": "Azure Private 5G Coreï¿½PREVIEW"
+          }
+        ]
+      },
+      {
+        "name": "content delivery  network (CDN)",
+        "items": [
+          {
+            "description": "content delivery network",
+            "provider": "aws",
+            "product": "Amazon Cloud Front"
+          },
+          {
+            "description": "Fast, reliable content delivery network with global reach",
+            "provider": "azure",
+            "product": "Content Delivery Network"
+          }
+        ]
+      },
+      {
+        "name": "ddos protection",
+        "items": [
+          {
+            "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks",
+            "provider": "azure",
+            "product": "Azure DDoS Protection"
+          }
+        ]
+      },
+      {
+        "name": "discovery service",
+        "items": [
+          {
+            "description": "cloud resource discovery",
+            "provider": "aws",
+            "product": "AWS Cloud Map"
+          }
+        ]
+      },
+      {
+        "name": "domain name server (DNS)",
+        "items": [
+          {
+            "description": "Domain Name Server",
+            "provider": "aws",
+            "product": "Amazon Route 53"
+          },
+          {
+            "description": "Host your DNS domain in Azure",
+            "provider": "azure",
+            "product": "Azure DNS"
+          }
+        ]
+      },
+      {
+        "name": "firewall",
+        "items": [
+          {
+            "description": "Cloud native and intelligent network firewall security",
+            "provider": "azure",
+            "product": "Azure Firewall"
+          },
+          {
+            "description": "Central network security policy and route management for globally distributed, software defined perimeters",
+            "provider": "azure",
+            "product": "Azure Firewall Manager"
+          },
+          {
+            "description": "A cloud native web application firewall (WAF) service that provides powerful protection for web apps",
+            "provider": "azure",
+            "product": "Web Application Firewall"
+          }
+        ]
+      },
+      {
+        "name": "load balancing",
+        "items": [
+          {
+            "description": "load balancer",
+            "provider": "aws",
+            "product": "Application Load Balancer"
+          },
+          {
+            "description": "load balancer",
+            "provider": "aws",
+            "product": "Network Load Balancer"
+          },
+          {
+            "description": "load balancer",
+            "provider": "aws",
+            "product": "Gateway Load Balancer"
+          },
+          {
+            "description": "Deliver high availability and network performance to your apps",
+            "provider": "azure",
+            "product": "Load Balancer"
+          }
+        ]
+      },
+      {
+        "name": "monitoring",
+        "items": [
+          {
+            "description": "Network performance monitoring and diagnostics solution",
+            "provider": "azure",
+            "product": "Network Watcher"
+          }
+        ]
+      },
+      {
+        "name": "network management",
+        "items": [
+          {
+            "description": "network connection",
+            "provider": "aws",
+            "product": "AWS Direct Connect"
+          },
+          {
+            "description": "network performance",
+            "provider": "aws",
+            "product": "AWS Global Accelerator"
+          },
+          {
+            "description": "network traffic management",
+            "provider": "aws",
+            "product": "AWS VPC Lattice"
+          }
+        ]
+      },
+      {
+        "name": "traffic management",
+        "items": [
+          {
+            "description": "application level networking",
+            "provider": "aws",
+            "product": "AWS App Mesh"
+          },
+          {
+            "description": "Route incoming traffic for high performance and availability",
+            "provider": "azure",
+            "product": "Traffic Manager"
+          },
+          {
+            "description": "Enable network appliances to exchange routes dynamically with virtual networks in Azure",
+            "provider": "azure",
+            "product": "Azure Route Server"
+          }
+        ]
+      },
+      {
+        "name": "virtual private network (VPN)",
+        "items": [
+          {
+            "description": "virtual network connection",
+            "provider": "aws",
+            "product": "AWS Transit Gateway"
+          },
+          {
+            "description": "virtual network",
+            "provider": "aws",
+            "product": "Amazon Virtual Private Cloud (VPC)"
+          },
+          {
+            "description": "virtual private network",
+            "provider": "aws",
+            "product": "AWS Client VPN"
+          },
+          {
+            "description": "virtual private network",
+            "provider": "aws",
+            "product": "AWS Site to Site VPN"
+          },
+          {
+            "description": "private link",
+            "provider": "aws",
+            "product": "AWS PrivateLink"
+          },
+          {
+            "description": "Experience a fast, reliable, and private connection to Azure",
+            "provider": "azure",
+            "product": "Azure ExpressRoute"
+          },
+          {
+            "description": "Private access to services hosted on the Azure platform, keeping your data on the Microsoft network",
+            "provider": "azure",
+            "product": "Azure Private Link"
+          },
+          {
+            "description": "Provision private networks, optionally connect to on premises datacenters",
+            "provider": "azure",
+            "product": "Virtual Network"
+          },
+          {
+            "description": "Establish secure, cross premises connectivity",
+            "provider": "azure",
+            "product": "VPN Gateway"
+          },
+          {
+            "description": "Centrally manage virtual networks in Azure from a single pane of glass",
+            "provider": "azure",
+            "product": "Azure Virtual Network Manager"
+          }
+        ]
+      },
+      {
+        "name": "wide area network (WAN)",
+        "items": [
+          {
+            "description": "wide area network",
+            "provider": "aws",
+            "product": "AWS Cloud WAN"
+          },
+          {
+            "description": "Optimize and automate branch to branch connectivity through Azure",
+            "provider": "azure",
+            "product": "Virtual WAN"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "quantum technologies",
+    "domains": [
+      {
+        "name": "quantum computing",
+        "items": [
+          {
+            "description": "quantum computing",
+            "provider": "aws",
+            "product": "Amazon Bracket"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "robotics",
+    "domains": [
+      {
+        "name": "simulation",
+        "items": [
+          {
+            "description": "simulation workload",
+            "provider": "aws",
+            "product": "AWS RoboMaker"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "satellite",
+    "domains": [
+      {
+        "name": "satellite communication",
+        "items": [
+          {
+            "description": "satellite communication",
+            "provider": "aws",
+            "product": "AWS Ground Station"
+          },
+          {
+            "description": "Satellite ground station and scheduling services for fast downlinking of data",
+            "provider": "azure",
+            "product": "Azure Orbital"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "security and compliance",
+    "domains": [
+      {
+        "name": "access security",
+        "items": [
+          {
+            "description": "authorization service",
+            "provider": "aws",
+            "product": "Amazon Verified Permissions"
+          }
+        ]
+      },
+      {
+        "name": "centralized configuration",
+        "items": [
+          {
+            "description": "Fast, scalable parameter storage for app configuration",
+            "provider": "azure",
+            "product": "App Configuration"
+          }
+        ]
+      },
+      {
+        "name": "cryptography",
+        "items": [
+          {
+            "description": "public and private certificates management",
+            "provider": "aws",
+            "product": "AWS Certificate Manager (ACMÃ "
+          },
+          {
+            "description": "private certificate authority",
+            "provider": "aws",
+            "product": "AWS Private Certificate Authority"
+          },
+          {
+            "description": "cryptographic keys management",
+            "provider": "aws",
+            "product": "AWS Key management Service (AWS KMS"
+          },
+          {
+            "description": "code signing",
+            "provider": "aws",
+            "product": "AWS Signer"
+          },
+          {
+            "description": "payment processing",
+            "provider": "aws",
+            "product": "AWS Payment Cryptography"
+          }
+        ]
+      },
+      {
+        "name": "data security",
+        "items": [
+          {
+            "description": "A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it",
+            "provider": "azure",
+            "product": "Microsoft Azure Attestation"
+          },
+          {
+            "description": "sensitive data reporting",
+            "provider": "aws",
+            "product": "Amazon Macie"
+          },
+          {
+            "description": "Better protect your sensitive information, anytime, anywhere",
+            "provider": "azure",
+            "product": "Azure Information Protection"
+          },
+          {
+            "description": "Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence",
+            "provider": "azure",
+            "product": "Azure confidential ledger"
+          },
+          {
+            "description": "Fast, reliable, and more secure cloud content delivery service with intelligent threat protection",
+            "provider": "azure",
+            "product": "Azure Front Door"
+          }
+        ]
+      },
+      {
+        "name": "data sharing",
+        "items": [
+          {
+            "description": "resources sharing",
+            "provider": "aws",
+            "product": "AWS Resource Access Manager"
+          }
+        ]
+      },
+      {
+        "name": "data storage",
+        "items": [
+          {
+            "description": "security data centralization",
+            "provider": "aws",
+            "product": "Amazon Security Lake"
+          }
+        ]
+      },
+      {
+        "name": "ddos protection",
+        "items": [
+          {
+            "description": "ddos protection",
+            "provider": "aws",
+            "product": "AWS Shield"
+          },
+          {
+            "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks",
+            "provider": "azure",
+            "product": "Azure DDoS Protection"
+          }
+        ]
+      },
+      {
+        "name": "directory service",
+        "items": [
+          {
+            "description": "hierarchical datastore",
+            "provider": "aws",
+            "product": "Amazon Cloud directory"
+          },
+          {
+            "description": "active directory",
+            "provider": "aws",
+            "product": "AWS Directory Service"
+          },
+          {
+            "description": "active directory",
+            "provider": "microsoft",
+            "product": "Active Directory"
+          },
+          {
+            "description": "Manage your domain controllers in the cloud",
+            "provider": "azure",
+            "product": "Azure Active Directory Domain Services"
+          }
+        ]
+      },
+      {
+        "name": "firewall",
+        "items": [
+          {
+            "description": "resource protection management",
+            "provider": "aws",
+            "product": "AWS Firewall Manager"
+          },
+          {
+            "description": "firewall",
+            "provider": "aws",
+            "product": "AWS WAF"
+          },
+          {
+            "description": "firewall rules",
+            "provider": "aws",
+            "product": "AWS Network Firewall"
+          },
+          {
+            "description": "A cloud native web application firewall (WAF) service that provides powerful protection for web apps",
+            "provider": "azure",
+            "product": "Web Application Firewall"
+          }
+        ]
+      },
+      {
+        "name": "hardware security module (HSM)",
+        "items": [
+          {
+            "description": "cryptographic service for hardware security modules (HSMs)",
+            "provider": "aws",
+            "product": "AWS CloudHSM"
+          },
+          {
+            "description": "Manage hardware security modules that you use in the cloud",
+            "provider": "azure",
+            "product": "Azure Dedicated HSM"
+          }
+        ]
+      },
+      {
+        "name": "identity and access management (IAM)",
+        "items": [
+          {
+            "description": "identity and access management",
+            "provider": "aws",
+            "product": "AWS Identity and Access Management (IAM)"
+          }
+        ]
+      },
+      {
+        "name": "load balancing",
+        "items": [
+          {
+            "description": "Build secure, scalable, highly available web front ends in Azure",
+            "provider": "azure",
+            "product": "Application Gateway"
+          }
+        ]
+      },
+      {
+        "name": "secret management",
+        "items": [
+          {
+            "description": "secret management",
+            "provider": "aws",
+            "product": "AWS Secret Manager"
+          },
+          {
+            "description": "Safeguard and maintain control of keys and other secrets",
+            "provider": "azure",
+            "product": "Key Vault"
+          }
+        ]
+      },
+      {
+        "name": "security compliance",
+        "items": [
+          {
+            "description": "compliance information access",
+            "provider": "aws",
+            "product": "AWS Artifact"
+          },
+          {
+            "description": "risk and compliance audit",
+            "provider": "aws",
+            "product": "AWS Audit Manager"
+          }
+        ]
+      },
+      {
+        "name": "security inspector",
+        "items": [
+          {
+            "description": "vulnerability scan management",
+            "provider": "aws",
+            "product": "Amazon Inspector"
+          },
+          {
+            "description": "Protect your multi cloud and hybrid environments",
+            "provider": "azure",
+            "product": "Microsoft Defender for Cloud"
+          }
+        ]
+      },
+      {
+        "name": "security management",
+        "items": [
+          {
+            "description": "cloud security posture management",
+            "provider": "aws",
+            "product": "AWS Security Hub"
+          },
+          {
+            "description": "security data analysis",
+            "provider": "aws",
+            "product": "Amazon Detective"
+          },
+          {
+            "description": "Cloud native SIEM and intelligent security analytics",
+            "provider": "azure",
+            "product": "Microsoft Sentinel"
+          }
+        ]
+      },
+      {
+        "name": "threat detection",
+        "items": [
+          {
+            "description": "data, account and workload protection",
+            "provider": "aws",
+            "product": "Amazon GuardDuty"
+          },
+          {
+            "description": "Extend threat protection to any infrastructure",
+            "provider": "azure",
+            "product": "Microsoft Defender for Cloud"
+          },
+          {
+            "description": "Continuous asset discovery, vulnerability management, and threat detection for your Internet of things (IoT) and operational technology (OT) devices",
+            "provider": "azure",
+            "product": "Microsoft Defender for IoT"
+          }
+        ]
+      },
+      {
+        "name": "user identity platform",
+        "items": [
+          {
+            "description": "identity platform for web and mobile application",
+            "provider": "aws",
+            "product": "Amazon Cognito"
+          },
+          {
+            "description": "Synchronize on premises directories and enable single sign on",
+            "provider": "azure",
+            "product": "Azure Active Directory (Azure AD)"
+          }
+        ]
+      },
+      {
+        "name": "virtual private network (VPN)",
+        "items": [
+          {
+            "description": "Establish secure, cross premises connectivity",
+            "provider": "azure",
+            "product": "VPN Gateway"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "storage",
+    "domains": [
+      {
+        "name": "backup service",
+        "items": [
+          {
+            "description": "backup",
+            "provider": "aws",
+            "product": "AWS Backup"
+          }
+        ]
+      },
+      {
+        "name": "caching system",
+        "items": [
+          {
+            "description": "cache storage",
+            "provider": "aws",
+            "product": "Amazon File Cache"
+          },
+          {
+            "description": "File caching for high performance computing (HPC)",
+            "provider": "azure",
+            "product": "Azure HPC Cache"
+          }
+        ]
+      },
+      {
+        "name": "data lake",
+        "items": [
+          {
+            "description": "Scalable, secure data lake for high performance analytics",
+            "provider": "azure",
+            "product": "Azure Data Lake Storage"
+          },
+          {
+            "description": "Hyperscale repository for big data analytics workloads",
+            "provider": "azure",
+            "product": "Azure Data Lake Storage Gen1"
+          }
+        ]
+      },
+      {
+        "name": "data sharing",
+        "items": [
+          {
+            "description": "A simple and safe service for sharing big data with external organizations",
+            "provider": "azure",
+            "product": "Azure Data Share"
+          },
+          {
+            "description": "Simple, secure and serverless enterprise grade cloud file shares",
+            "provider": "azure",
+            "product": "Azure Files"
+          },
+          {
+            "description": "Enterprise grade Azure file shares, powered by NetApp",
+            "provider": "azure",
+            "product": "Azure NetApp Files"
+          }
+        ]
+      },
+      {
+        "name": "data storage",
+        "items": [
+          {
+            "description": "attached network storage",
+            "provider": "aws",
+            "product": "Amazon Elastic Block Store (EBS)"
+          },
+          {
+            "description": "simple storage",
+            "provider": "aws",
+            "product": "Amazon Simple Storage service (S3)"
+          },
+          {
+            "description": "Industry leading price point for storing rarely accessed data",
+            "provider": "azure",
+            "product": "Archive Storage"
+          },
+          {
+            "description": "Massively scalable and secure object storage",
+            "provider": "azure",
+            "product": "Azure Blob Storage"
+          },
+          {
+            "description": "High performance, highly durable block storage",
+            "provider": "azure",
+            "product": "Azure Disk Storage"
+          },
+          {
+            "description": "Durable, highly available, and massively scalable cloud storage",
+            "provider": "azure",
+            "product": "Storage Accounts"
+          },
+          {
+            "description": "View and interact with Azure storage resources",
+            "provider": "azure",
+            "product": "Storage Explorer"
+          },
+          {
+            "description": "Lower costs with an enterprise hybrid cloud storage solution",
+            "provider": "azure",
+            "product": "StorSimple"
+          },
+          {
+            "description": "cloud storage connection",
+            "provider": "aws",
+            "product": "AWS Storage Gateway"
+          }
+        ]
+      },
+      {
+        "name": "data transfer",
+        "items": [
+          {
+            "description": "Appliances and solutions for data transfer to Azure and edge compute",
+            "provider": "azure",
+            "product": "Data Box"
+          }
+        ]
+      },
+      {
+        "name": "disaster recovery",
+        "items": [
+          {
+            "description": "disaster recovery",
+            "provider": "aws",
+            "product": "AWS Elastic Disaster Recovery (DRS)"
+          }
+        ]
+      },
+      {
+        "name": "edge computing",
+        "items": [
+          {
+            "description": "edge computing",
+            "provider": "aws",
+            "product": "Amazon Snowball Edge"
+          },
+          {
+            "description": "edge computing",
+            "provider": "aws",
+            "product": "AWS Snowcone"
+          }
+        ]
+      },
+      {
+        "name": "file server",
+        "items": [
+          {
+            "description": "file server",
+            "provider": "aws",
+            "product": "Amazon FSx"
+          },
+          {
+            "description": "Run high performance, file based workloads in the cloud",
+            "provider": "azure",
+            "product": "Avere vFXT for Azure"
+          }
+        ]
+      },
+      {
+        "name": "file system",
+        "items": [
+          {
+            "description": "file system",
+            "provider": "aws",
+            "product": "Amazon Elastic File System (EFS)"
+          },
+          {
+            "description": "Simplify data protection with built in backup management at scale",
+            "provider": "azure",
+            "product": "Azure Backup"
+          },
+          {
+            "description": "Hybrid storage optimization solution for HPC environments",
+            "provider": "azure",
+            "product": "Azure FXT Edge Filer"
+          }
+        ]
+      },
+      {
+        "name": "message queue",
+        "items": [
+          {
+            "description": "Effectively scale apps according to traffic",
+            "provider": "azure",
+            "product": "Queue Storage"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "virtual desktop infrastructure",
+    "domains": [
+      {
+        "name": "desktop",
+        "items": [
+          {
+            "description": "Enable a secure, remote desktop experience from anywhere",
+            "provider": "azure",
+            "product": "Azure Virtual Desktop"
+          },
+          {
+            "description": "Provision Windows desktops and apps with VMware and Azure Virtual Desktop",
+            "provider": "azure",
+            "product": "VMware Horizon Cloud on Microsoft Azure"
+          },
+          {
+            "description": "Provision Windows desktops and apps on Azure with Citrix and Azure Virtual Desktop",
+            "provider": "azure",
+            "product": "Citrix Virtual Apps and Desktops for Azure"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "web",
+    "domains": [
+      {
+        "name": "api management",
+        "items": [
+          {
+            "description": "Publish APIs to developers, partners, and employees securely and at scale",
+            "provider": "azure",
+            "product": "API Management"
+          }
+        ]
+      },
+      {
+        "name": "containers",
+        "items": [
+          {
+            "description": "Run containerized web apps on Windows and Linux",
+            "provider": "azure",
+            "product": "Web App for containers"
+          }
+        ]
+      },
+      {
+        "name": "content delivery  network (CDN)",
+        "items": [
+          {
+            "description": "Fast, reliable content delivery network with global reach",
+            "provider": "azure",
+            "product": "Content Delivery Network"
+          }
+        ]
+      },
+      {
+        "name": "deployment",
+        "items": [
+          {
+            "description": "Build and deploy Spring Boot apps with a fully managed service from Microsoft and VMware",
+            "provider": "azure",
+            "product": "Azure Spring Cloud"
+          }
+        ]
+      },
+      {
+        "name": "enterprise search",
+        "items": [
+          {
+            "description": "Enterprise scale search for app development",
+            "provider": "azure",
+            "product": "Azure Cognitive Search"
+          }
+        ]
+      },
+      {
+        "name": "map service",
+        "items": [
+          {
+            "description": "Create location aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure",
+            "provider": "azure",
+            "product": "Azure Maps"
+          }
+        ]
+      },
+      {
+        "name": "notification service",
+        "items": [
+          {
+            "description": "Send push notifications to any platform from any back end",
+            "provider": "azure",
+            "product": "Notification Hubs"
+          }
+        ]
+      },
+      {
+        "name": "rich media",
+        "items": [
+          {
+            "description": "Build rich communication experiences with the same secure platform used by Microsoft Teams",
+            "provider": "azure",
+            "product": "Azure Communication Services"
+          }
+        ]
+      },
+      {
+        "name": "web and mobile application",
+        "items": [
+          {
+            "description": "Quickly create powerful cloud apps for web and mobile",
+            "provider": "azure",
+            "product": "App Service"
+          },
+          {
+            "description": "Add real time web functionalities easily",
+            "provider": "azure",
+            "product": "Azure SignalR Service"
+          },
+          {
+            "description": "Streamlined full stack development from source code to global high availability",
+            "provider": "azure",
+            "product": "Static Web Apps"
+          },
+          {
+            "description": "Easily build real time messaging web applications using WebSockets and the publish subscribe pattern",
+            "provider": "azure",
+            "product": "Azure Web PubSub"
+          },
+          {
+            "description": "Easily add real time collaborative experiences to your apps with Fluid Framework",
+            "provider": "azure",
+            "product": "Azure Fluid Relay"
+          }
+        ]
+      }
+    ]
+  }
+]
